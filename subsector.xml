@@ -1,0 +1,1316 @@
+<subsector>
+  <stars>
+    <star id='0101'>
+      <name>Zoonet</name>
+      <atmosphere>Invasive, toxic</atmosphere>
+      <temperature>Cold</temperature>
+      <biosphere>Engineered</biosphere>
+      <population>
+        <value>656,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>no</gas-giant>
+      <tags count='2'>
+        <tag>Zombies</tag>
+        <tag>Hostile Space</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Sinister governmental agent</enemy>
+        <enemy>Crazed zombie cultist</enemy>
+        <enemy>Paranoid local leader</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Astronomic researcher</friend>
+        <friend>Doctor searching for a cure</friend>
+        <friend>Early warning monitor agent</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The zombies retain human intelligence</complication>
+        <complication>The natives blame outworlders for the danger</complication>
+        <complication>The zombies can be cured</complication>
+      </complications>
+      <things count='3'>
+        <thing>Abandoned riches in a disaster zone</thing>
+        <thing>Details of the cult's conversion process</thing>
+        <thing>Key to a secure bunker</thing>
+      </things>
+      <places count='3'>
+        <place>Fortified bunker that was overrun from within</place>
+        <place>Massive ancient crater</place>
+        <place>House with boarded-up windows</place>
+      </places>
+    </star>
+    <star id='0104'>
+      <name>Loungator</name>
+      <atmosphere>Airless or thin</atmosphere>
+      <temperature>Cold</temperature>
+      <biosphere>Microbial life</biosphere>
+      <population>
+        <value>857,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>9,600 km</value>
+        <gravity>0.7</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Local Specialty</tag>
+        <tag>Restrictive Laws</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Native lawyer specializing in peeling offworlders</enemy>
+        <enemy>Native who views the specialty as sacred</enemy>
+        <enemy>Paid snitch</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Artisan seeking protection</friend>
+        <friend>Repressed native</friend>
+        <friend>Frustrated offworlder</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The laws are secret to offworlders</complication>
+        <complication>The specialty is repugnant in nature</complication>
+        <complication>The crafters don't want to make the specialty any more</complication>
+      </complications>
+      <things count='3'>
+        <thing>The secret recipe</thing>
+        <thing>Writ of diplomatic immunity</thing>
+        <thing>Fine collection vault contents</thing>
+      </things>
+      <places count='3'>
+        <place>Mob scene of outraged locals</place>
+        <place>Police station</place>
+        <place>Artistic competition for best artisan</place>
+      </places>
+    </star>
+    <star id='0105'>
+      <name>Digiros</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>858,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>9,600 km</value>
+        <gravity>0.7</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Desert World</tag>
+        <tag>Seismic Instability</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Crazed hermit</enemy>
+        <enemy>Earthquake cultist</enemy>
+        <enemy>Burrowing native life form</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Geothermal prospector</friend>
+        <friend>Native guide</friend>
+        <friend>Research biologist</friend>
+      </friends>
+      <complications count='3'>
+        <complication>They're caused by alien technology</complication>
+        <complication>They're restrained by alien technology that is being plundered by offworlders</complication>
+        <complication>Native warfare over water rights</complication>
+      </complications>
+      <things count='3'>
+        <thing>Earthquake-proof building schematics</thing>
+        <thing>Pretech rainmaking equipment</thing>
+        <thing>Earthquake suppressor</thing>
+      </things>
+      <places count='3'>
+        <place>Village during an earthquake</place>
+        <place>Hidden underground cistern</place>
+        <place>Oasis</place>
+      </places>
+    </star>
+    <star id='0106'>
+      <name>Goethima</name>
+      <atmosphere>Airless or thin</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Immiscible</biosphere>
+      <population>
+        <value>717,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>0</value>
+        <description>Stone age</description>
+      </tech-level>
+      <world-size>
+        <value>6,400 km</value>
+        <gravity>0.35</gravity>
+      </world-size>
+      <gas-giant>no</gas-giant>
+      <tags count='2'>
+        <tag>Zombies</tag>
+        <tag>Regional Hegemon</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Contemptuous noble</enemy>
+        <enemy>Soulless maltech biotechnology cult</enemy>
+        <enemy>Sinister governmental agent</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Foreign spy</friend>
+        <friend>Rebel against the secret malefactors</friend>
+        <friend>Doctor searching for a cure</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The process is voluntary among devotees</complication>
+        <complication>The hegemon is genuinely benign</complication>
+        <complication>The zombies can be cured</complication>
+      </complications>
+      <things count='3'>
+        <thing>Diplomatic carte blanche</thing>
+        <thing>Details of the cult's conversion process</thing>
+        <thing>Deed to an offworld estate</thing>
+      </things>
+      <places count='3'>
+        <place>Salon teeming with spies</place>
+        <place>Palace or seat of government</place>
+        <place>Dead city</place>
+      </places>
+    </star>
+    <star id='0108'>
+      <name>Neurolope</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Immiscible</biosphere>
+      <population>
+        <value>987,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>5</value>
+        <description>Pretech</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Preceptor Archive</tag>
+        <tag>Pretech Cultists</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Cult leader</enemy>
+        <enemy>Religious zealot</enemy>
+        <enemy>Offworld Merchant who wants the natives kept ignorant</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Roving Preceptor Adept</friend>
+        <friend>Offworld scientist</friend>
+        <friend>Offworld scholar</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The Archive has been corrupted and their teaching is incorrect</complication>
+        <complication>The Archive has maintained some replicable pretech science</complication>
+        <complication>The cultists can actually replicate certain forms of pretech</complication>
+      </complications>
+      <things count='3'>
+        <thing>Hidden cache of theologically unacceptable tech</thing>
+        <thing>Ancient pretech teaching equipment</thing>
+        <thing>Waylaid payment for pretech artifacts</thing>
+      </things>
+      <places count='3'>
+        <place>Experimental laboratory</place>
+        <place>Smuggler's den</place>
+        <place>Public procession showing a prized artifact</place>
+      </places>
+    </star>
+    <star id='0110'>
+      <name>Divide</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>No native</biosphere>
+      <population>
+        <value>805,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>12,800 km</value>
+        <gravity>1.0</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Sectarians</tag>
+        <tag>Hostile Biosphere</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Absolutist ruler</enemy>
+        <enemy>Callous labor overseer</enemy>
+        <enemy>Native aliens</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Reformist clergy</friend>
+        <friend>Xenobiologist</friend>
+        <friend>Local peacekeeping official</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The sectarians hate each other for multiple reasons</complication>
+        <complication>The conflict has more than two sides</complication>
+        <complication>The sectarians hate outsiders more than they hate each other</complication>
+      </complications>
+      <things count='3'>
+        <thing>Ancient holy book</thing>
+        <thing>Abandoned colony vault</thing>
+        <thing>Offering to a local holy man</thing>
+      </things>
+      <places count='3'>
+        <place>Crusading temple</place>
+        <place>Philosopher's salon</place>
+        <place>Sectarian battlefield</place>
+      </places>
+    </star>
+    <star id='0202'>
+      <name>Monaward</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>793,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>8,000 km</value>
+        <gravity>0.45</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Warlords</tag>
+        <tag>Trade Hub</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Warlord</enemy>
+        <enemy>Corrupt customs official</enemy>
+        <enemy>Aspiring minion</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Humanitarian aid official</friend>
+        <friend>Village priest</friend>
+        <friend>Vengeful commoner</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The warlords are using substantially more sophisticated tech than others</complication>
+        <complication>Saboteurs seek to blow up a rival's warehouses</complication>
+        <complication>Some of the warlords are better rulers than the government</complication>
+      </complications>
+      <things count='3'>
+        <thing>Voucher for a warehouse's contents</thing>
+        <thing>Box of legitimate tax stamps indicating customs dues have been paid.</thing>
+        <thing>Buried plunder</thing>
+      </things>
+      <places count='3'>
+        <place>Spaceport teeming with activity</place>
+        <place>Raucous bazaar</place>
+        <place>Burnt-out village</place>
+      </places>
+    </star>
+    <star id='0301'>
+      <name>Germima</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Variable cold-to-temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>945,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>12,800 km</value>
+        <gravity>1.0</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Hatred</tag>
+        <tag>Freak Weather</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Criminal using the weather as a cover</enemy>
+        <enemy>Weather cultists convinced the offworlders are responsible for some disaster</enemy>
+        <enemy>Native predators dependent on the weather</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Holodoc producers needing "an inside look"</friend>
+        <friend>Intelligence agent needing catspaws</friend>
+        <friend>Holodoc crew wanting shots of the weather</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The characters are known to have done business there</complication>
+        <complication>Malfunctioning pretech terraforming engines that cause the weather</complication>
+        <complication>The weather itself</complication>
+      </complications>
+      <things count='3'>
+        <thing>Naturally sculpted objects of intricate beauty</thing>
+        <thing>Reward for turning in enemy agents</thing>
+        <thing>Holorecords of a spectacularly and rare weather pattern</thing>
+      </things>
+      <places count='3'>
+        <place>War crimes museum</place>
+        <place>Terraforming control room</place>
+        <place>The one sunlit place</place>
+      </places>
+    </star>
+    <star id='0302'>
+      <name>Beatism</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Immiscible</biosphere>
+      <population>
+        <value>677,066,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>no</gas-giant>
+      <tags count='2'>
+        <tag>Psionics Worship</tag>
+        <tag>Quarantined World</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Suspicious patrol leader</enemy>
+        <enemy>Psychic inquisitor</enemy>
+        <enemy>Psychic slaver</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Native rebel</friend>
+        <friend>Offworld employer seeking psychics</friend>
+        <friend>Offworlder psychic researcher</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Psychics in the party are forcibly kidnapped for "enlightening".</complication>
+        <complication>The psychics have developed a unique discipline</complication>
+        <complication>The will of a psychic is law</complication>
+      </complications>
+      <things count='3'>
+        <thing>Defense grid key</thing>
+        <thing>Bribe for getting someone out</thing>
+        <thing>Abandoned alien tech</thing>
+      </things>
+      <places count='3'>
+        <place>Temple to the mind</place>
+        <place>Psitech-imbued council chamber</place>
+        <place>Bridge of a blockading ship</place>
+      </places>
+    </star>
+    <star id='0303'>
+      <name>Saurup</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>22,000</value>
+        <description>Tens of thousands</description>
+      </population>
+      <tech-level>
+        <value>2</value>
+        <description>Nineteenth-century</description>
+      </tech-level>
+      <world-size>
+        <value>14,400 km</value>
+        <gravity>1.25</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Psionics Worship</tag>
+        <tag>Freak Geology</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Psychic slaver</enemy>
+        <enemy>Cultist who believes it the work of aliens</enemy>
+        <enemy>Psychic inquisitor</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Offworld employer seeking psychics</friend>
+        <friend>Offworlder psychic researcher</friend>
+        <friend>Native rebel</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Lethal weather</complication>
+        <complication>The psychic training is imperfect and the psychics all show significant mental illness</complication>
+        <complication>The psychics have developed a unique discipline</complication>
+      </complications>
+      <things count='3'>
+        <thing>Valuable psychic research records</thing>
+        <thing>Hidden veins of a major precious mineral strike</thing>
+        <thing>Deed to a location of great natural beauty</thing>
+      </things>
+      <places count='3'>
+        <place>Sanitarium-prison for feral psychics</place>
+        <place>Psitech-imbued council chamber</place>
+        <place>Atop a bizarre geological formation</place>
+      </places>
+    </star>
+    <star id='0304'>
+      <name>Proting</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Frozen</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>108,420,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>6,400 km</value>
+        <gravity>0.35</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Civil War</tag>
+        <tag>Hatred</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Native convinced that the offworlders are agents of Them</enemy>
+        <enemy>Guerilla bandits</enemy>
+        <enemy>Conspiracy theorist who blames offworlders for the war</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Faction loyalist seeking aid</friend>
+        <friend>Native caught in the crossfire</friend>
+        <friend>Offworlder seeking passage off the planet</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The characters are known to have done business there</complication>
+        <complication>Famine strikes</complication>
+        <complication>Bandit infestations</complication>
+      </complications>
+      <things count='3'>
+        <thing>Ammo dump</thing>
+        <thing>Military cache</thing>
+        <thing>Secret war plans</thing>
+      </things>
+      <places count='3'>
+        <place>Battle front</place>
+        <place>Captured decommissioned spaceship kept as a trophy</place>
+        <place>Bombed-out town</place>
+      </places>
+    </star>
+    <star id='0306'>
+      <name>Pront</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>993,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>9,600 km</value>
+        <gravity>0.7</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Bubble Cities</tag>
+        <tag>Trade Hub</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Corrupt customs official</enemy>
+        <enemy>Native dreading outsider contamination</enemy>
+        <enemy>Thieving dockworker</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Rich tourist</friend>
+        <friend>Maintenance chief in need of help</friend>
+        <friend>Surveyor seeking new building sites</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Native revolt against officials</complication>
+        <complication>An outworlder faction schemes to seize the trade hub</complication>
+        <complication>Pirates lace the hub with spies</complication>
+      </complications>
+      <things count='3'>
+        <thing>Box of legitimate tax stamps indicating customs dues have been paid.</thing>
+        <thing>Voucher for a warehouse's contents</thing>
+        <thing>Insider trading information</thing>
+      </things>
+      <places count='3'>
+        <place>Spaceport teeming with activity</place>
+        <place>City power core</place>
+        <place>Surface of the bubble</place>
+      </places>
+    </star>
+    <star id='0401'>
+      <name>Unices</name>
+      <atmosphere>Thick</atmosphere>
+      <temperature>Variable cold-to-temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>751,298,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Pilgrimage Site</tag>
+        <tag>Restrictive Laws</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Saboteur devoted to a rival belief</enemy>
+        <enemy>Outraged native</enemy>
+        <enemy>Paid snitch</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Naive offworlder pilgrim</friend>
+        <friend>Reforming crusader</friend>
+        <friend>Frustrated offworlder</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The laws forbid the simple existence of some party members</complication>
+        <complication>The laws are secret to offworlders</complication>
+        <complication>The laws change regularly in patterns only natives understand</complication>
+      </complications>
+      <things count='3'>
+        <thing>Ancient relic guarded at the site</thing>
+        <thing>Fine collection vault contents</thing>
+        <thing>Proof of the site's inauthenticity</thing>
+      </things>
+      <places count='3'>
+        <place>Police station</place>
+        <place>Legislative chamber</place>
+        <place>Courtroom</place>
+      </places>
+    </star>
+    <star id='0410'>
+      <name>Diadical</name>
+      <atmosphere>Corrosive and invasive</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>397,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>4,800 km</value>
+        <gravity>0.25</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Warlords</tag>
+        <tag>Exchange Consulate</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Expensive assassin</enemy>
+        <enemy>Warlord</enemy>
+        <enemy>Avaricious lieutenant</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Humanitarian aid official</friend>
+        <friend>Exchange diplomat</friend>
+        <friend>Village priest</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The warlords favor specific religions or races over others</complication>
+        <complication>Some of the warlords are better rulers than the government</complication>
+        <complication>The warlords are using substantially more sophisticated tech than others</complication>
+      </complications>
+      <things count='3'>
+        <thing>Buried plunder</thing>
+        <thing>Weapons cache</thing>
+        <thing>Wealth hidden to conceal it from a bankruptcy judgment</thing>
+      </things>
+      <places count='3'>
+        <place>Meeting site between fractious disputants</place>
+        <place>Burnt-out village</place>
+        <place>Squalid refugee camp</place>
+      </places>
+    </star>
+    <star id='0504'>
+      <name>Spacos</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Hybrid</biosphere>
+      <population>
+        <value>4500</value>
+        <description>Outpost</description>
+      </population>
+      <tech-level>
+        <value>0</value>
+        <description>Stone age</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Local Tech</tag>
+        <tag>Friendly Foe</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Internal malcontent bent on creating conflict</enemy>
+        <enemy>Secret master who seeks to lure trust</enemy>
+        <enemy>Automated defenses that suddenly come alive</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Native in need of technical help</friend>
+        <friend>Suspicious investigator</friend>
+        <friend>Curious offworld scientist</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The group offers a vital service at the cost of moral compromise</complication>
+        <complication>The tech has poorly-understood side effects</complication>
+        <complication>The tech is unreliable</complication>
+      </complications>
+      <things count='3'>
+        <thing>Evidence to convince others of their kind that they are right</thing>
+        <thing>The secret blueprints for its construction</thing>
+        <thing>An ancient alien R&amp;D database</thing>
+      </things>
+      <places count='3'>
+        <place>Repurposed maltech laboratory</place>
+        <place>Tech brokerage vault</place>
+        <place>Alien conclave building</place>
+      </places>
+    </star>
+    <star id='0602'>
+      <name>Lip</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Immiscible</biosphere>
+      <population>
+        <value>356,659,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Area 51</tag>
+        <tag>Quarantined World</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Suspicious patrol leader</enemy>
+        <enemy>Defense installation commander</enemy>
+        <enemy>Local who wants a specimen for dissection</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Relative of a person trapped on the world</friend>
+        <friend>Treasure hunter</friend>
+        <friend>Idealistic government reformer</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The blockade is meant to starve everyone on the barren world.</complication>
+        <complication>The world is rife with maltech abominations</complication>
+        <complication>The natives want to remain isolated</complication>
+      </complications>
+      <things count='3'>
+        <thing>Defense grid key</thing>
+        <thing>Elaborate spy devices</thing>
+        <thing>Abandoned alien tech</thing>
+      </things>
+      <places count='3'>
+        <place>Defense installation control room</place>
+        <place>Refugee camp</place>
+        <place>Desert airfield</place>
+      </places>
+    </star>
+    <star id='0603'>
+      <name>Comanoid</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Cold</temperature>
+      <biosphere>No native</biosphere>
+      <population>
+        <value>295,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>6,400 km</value>
+        <gravity>0.35</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Local Tech</tag>
+        <tag>Regional Hegemon</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Contemptuous noble</enemy>
+        <enemy>Keeper of the tech</enemy>
+        <enemy>Colonial official</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Curious offworld scientist</friend>
+        <friend>Foreign spy</friend>
+        <friend>Offworld ambassador</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The tech has poorly-understood side effects</complication>
+        <complication>The government is riddled with spies</complication>
+        <complication>The hegemon is decaying and losing its control</complication>
+      </complications>
+      <things count='3'>
+        <thing>Foreign aid grant</thing>
+        <thing>Diplomatic carte blanche</thing>
+        <thing>An unclaimed payment for a large shipment</thing>
+      </things>
+      <places count='3'>
+        <place>Lethal R&amp;D center</place>
+        <place>Alien factory</place>
+        <place>Salon teeming with spies</place>
+      </places>
+    </star>
+    <star id='0607'>
+      <name>Origiross</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Cold</temperature>
+      <biosphere>Engineered</biosphere>
+      <population>
+        <value>678,096,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>12,800 km</value>
+        <gravity>1.0</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Heavy Mining</tag>
+        <tag>Oceanic World</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Violent "salvager" gang</enemy>
+        <enemy>Mine boss</enemy>
+        <enemy>Tentacled sea monster</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Daredevil fisherman</friend>
+        <friend>Hermit prospector</friend>
+        <friend>Offworld investor</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Sea is corrosive or toxic</complication>
+        <complication>The seas are wracked by regular storms</complication>
+        <complication>The liquid flux confuses grav engines too badly for them to function on this world</complication>
+      </complications>
+      <things count='3'>
+        <thing>Pretech water purification equipment</thing>
+        <thing>Smuggled case of refined mineral</thing>
+        <thing>Location of enormous schools of fish</thing>
+      </things>
+      <places count='3'>
+        <place>Undersea bubble city</place>
+        <place>Tailing piles</place>
+        <place>The only island on the planet</place>
+      </places>
+    </star>
+    <star id='0608'>
+      <name>Gothos</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>523,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>3,200 km</value>
+        <gravity>0.15</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Outpost World</tag>
+        <tag>Out of Contact</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Zealous native cleric</enemy>
+        <enemy>Sinister power that has kept the world isolated</enemy>
+        <enemy>Space-mad outpost staffer</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>UFO cultist native</friend>
+        <friend>Lonely staffer</friend>
+        <friend>Overtaxed maintenance chief</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The natives are highly vulnerable to offworld diseases</complication>
+        <complication>The alien ruin defense systems are waking up</complication>
+        <complication>Pirates raid the outpost</complication>
+      </complications>
+      <things count='3'>
+        <thing>Ancient pretech equipment</thing>
+        <thing>Terran relic brought from Earth</thing>
+        <thing>Logs of the original colonists</thing>
+      </things>
+      <places count='3'>
+        <place>Court of the local ruler</place>
+        <place>The only building on the planet</place>
+        <place>Ancient defense battery controls</place>
+      </places>
+    </star>
+    <star id='0609'>
+      <name>Juxturos</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>77,000</value>
+        <description>Tens of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>12,800 km</value>
+        <gravity>1.0</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Sectarians</tag>
+        <tag>Major Spaceyard</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Paranoid believer</enemy>
+        <enemy>Scheming construction tycoon</enemy>
+        <enemy>Enemy saboteur</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Captain stuck in drydock</friend>
+        <friend>Offworld missionary</friend>
+        <friend>Local peacekeeping official</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The spaceyard relies on maltech to function</complication>
+        <complication>The conflict has more than two sides</complication>
+        <complication>The spaceyard is burning out from overuse</complication>
+      </complications>
+      <things count='3'>
+        <thing>Override keys for activating old pretech facilities</thing>
+        <thing>Offering to a local holy man</thing>
+        <thing>Intellectual property-locked pretech blueprints</thing>
+      </things>
+      <places count='3'>
+        <place>Surface of a partially-completed ship</place>
+        <place>Bitterly divided village</place>
+        <place>Sectarian battlefield</place>
+      </places>
+    </star>
+    <star id='0704'>
+      <name>Abrant</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>602,180,000</value>
+        <description>Millions</description>
+      </population>
+      <tech-level>
+        <value>2</value>
+        <description>Nineteenth-century</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Freak Geology</tag>
+        <tag>Feral World</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Cultist who believes it the work of aliens</enemy>
+        <enemy>Cannibal chief</enemy>
+        <enemy>Crank xenogeologist</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Aspiring reformer</friend>
+        <friend>Trapped outworlder</friend>
+        <friend>Artist</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Lethal weather</complication>
+        <complication>Seismic activity</complication>
+        <complication>Horrific local "celebration"</complication>
+      </complications>
+      <things count='3'>
+        <thing>Wealth accumulated through brutal evildoing</thing>
+        <thing>Terribly misused piece of pretech</thing>
+        <thing>Deed to a location of great natural beauty</thing>
+      </things>
+      <places count='3'>
+        <place>Atop a bizarre geological formation</place>
+        <place>Atrocity amphitheater</place>
+        <place>Traditional torture parlor</place>
+      </places>
+    </star>
+    <star id='0707'>
+      <name>Topmag</name>
+      <atmosphere>Invasive, toxic</atmosphere>
+      <temperature>Variable cold-to-temperate</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>97,000</value>
+        <description>Tens of thousands</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>12,800 km</value>
+        <gravity>1.0</gravity>
+      </world-size>
+      <gas-giant>no</gas-giant>
+      <tags count='2'>
+        <tag>Tomb World</tag>
+        <tag>Hostile Space</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Meteor-launching terrorists</enemy>
+        <enemy>Avaricious scavenger</enemy>
+        <enemy>Alien raid leader</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Local defense commander</friend>
+        <friend>Astronomic researcher</friend>
+        <friend>Early warning monitor agent</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The natives blame outworlders for the danger</complication>
+        <complication>The native elite profit from the danger in some way</complication>
+        <complication>A handful of desperate natives survived the Silence</complication>
+      </complications>
+      <things count='3'>
+        <thing>Psitech caches</thing>
+        <thing>Key to a secure bunker</thing>
+        <thing>Early warning of a raid or impact</thing>
+      </things>
+      <places count='3'>
+        <place>Ruined hydroponic facility</place>
+        <place>Cannibal tribe's lair</place>
+        <place>City square carpeted in bones</place>
+      </places>
+    </star>
+    <star id='0710'>
+      <name>Maxihex</name>
+      <atmosphere>Inert gas</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>No native</biosphere>
+      <population>
+        <value>3300</value>
+        <description>Outpost</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Hatred</tag>
+        <tag>Tyranny</tag>
+      </tags>
+      <travel-zone>amber</travel-zone>
+      <enemies count='3'>
+        <enemy>Cynical politician in need of scapegoats</enemy>
+        <enemy>Soulless government official</enemy>
+        <enemy>Debauched autocrat</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Holodoc producers needing "an inside look"</friend>
+        <friend>Desperate peasant</friend>
+        <friend>Intelligence agent needing catspaws</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The characters "look like" the hated others</complication>
+        <complication>The tyrant is hostile to "meddlesome outworlders".</complication>
+        <complication>The characters are known to have done business there</complication>
+      </complications>
+      <things count='3'>
+        <thing>Regalia of rulership</thing>
+        <thing>Relic stolen by Them years ago</thing>
+        <thing>Proof of Their evildoing</thing>
+      </things>
+      <places count='3'>
+        <place>Impoverished village</place>
+        <place>Protest rally massacre</place>
+        <place>Captured decommissioned spaceship kept as a trophy</place>
+      </places>
+    </star>
+    <star id='0801'>
+      <name>Nithion</name>
+      <atmosphere>Thick</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>No native</biosphere>
+      <population>
+        <value>0</value>
+        <description>Failed colony</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>9,600 km</value>
+        <gravity>0.7</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Major Spaceyard</tag>
+        <tag>Tomb World</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Industrial spy</enemy>
+        <enemy>Scheming construction tycoon</enemy>
+        <enemy>Demented survivor tribe chieftain</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Scavenger Fleet captain</friend>
+        <friend>Captain stuck in drydock</friend>
+        <friend>Mad innovator</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The structures are unstable and collapsing</complication>
+        <complication>The world's atmosphere quickly degrades anything in an opened building</complication>
+        <complication>The spaceyard is burning out from overuse</complication>
+      </complications>
+      <things count='3'>
+        <thing>Psitech caches</thing>
+        <thing>Lost pretech equipment</thing>
+        <thing>Stores of unused munitions</thing>
+      </things>
+      <places count='3'>
+        <place>Ship scrap graveyard</place>
+        <place>City square carpeted in bones</place>
+        <place>Crumbling hive-city</place>
+      </places>
+    </star>
+    <star id='0803'>
+      <name>Levible</name>
+      <atmosphere>Invasive, toxic</atmosphere>
+      <temperature>Warm</temperature>
+      <biosphere>Biosphere remnants</biosphere>
+      <population>
+        <value>146,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>3</value>
+        <description>Twentieth-century</description>
+      </tech-level>
+      <world-size>
+        <value>9,600 km</value>
+        <gravity>0.7</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Police State</tag>
+        <tag>Sealed Menace</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Scapegoating official</enemy>
+        <enemy>Hostile outsider bent on freeing the menace</enemy>
+        <enemy>Secret police chief</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Victim of the menace</friend>
+        <friend>Offworld agitator</friend>
+        <friend>Crime boss</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The leaders foment a pogrom against "offworlder spies".</complication>
+        <complication>The menace would bring great wealth along with destruction</complication>
+        <complication>The menace is intelligent</complication>
+      </complications>
+      <things count='3'>
+        <thing>List of police informers</thing>
+        <thing>Wealth taken from "enemies of the state"</thing>
+        <thing>A key to unlock the menace</thing>
+      </things>
+      <places count='3'>
+        <place>Monitoring station</place>
+        <place>Gulag</place>
+        <place>Scene of a prior outbreak of the menace</place>
+      </places>
+    </star>
+    <star id='0808'>
+      <name>Gnostite</name>
+      <atmosphere>Breathable</atmosphere>
+      <temperature>Cold</temperature>
+      <biosphere>Human-miscible</biosphere>
+      <population>
+        <value>244,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>4</value>
+        <description>Baseline postech</description>
+      </tech-level>
+      <world-size>
+        <value>11,200 km</value>
+        <gravity>0.9</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Theocracy</tag>
+        <tag>Civil War</tag>
+      </tags>
+      <travel-zone>red</travel-zone>
+      <enemies count='3'>
+        <enemy>Conspiracy theorist who blames offworlders for the war</enemy>
+        <enemy>Decadent priest-ruler</enemy>
+        <enemy>Zealous inquisitor</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>Atheistic merchant</friend>
+        <friend>Desperate commoner</friend>
+        <friend>Offworlder seeking passage off the planet</friend>
+      </friends>
+      <complications count='3'>
+        <complication>Famine strikes</complication>
+        <complication>The front rolls over the group</complication>
+        <complication>The theocracy actually works well</complication>
+      </complications>
+      <things count='3'>
+        <thing>Secret war plans</thing>
+        <thing>Secret church records</thing>
+        <thing>Ancient church treasures</thing>
+      </things>
+      <places count='3'>
+        <place>Propaganda broadcast tower</place>
+        <place>Battle front</place>
+        <place>Austere monastery</place>
+      </places>
+    </star>
+    <star id='0809'>
+      <name>Ageipism</name>
+      <atmosphere>Airless or thin</atmosphere>
+      <temperature>Temperate</temperature>
+      <biosphere>No native</biosphere>
+      <population>
+        <value>342,000</value>
+        <description>Hundreds of thousands</description>
+      </population>
+      <tech-level>
+        <value>2</value>
+        <description>Nineteenth-century</description>
+      </tech-level>
+      <world-size>
+        <value>8,000 km</value>
+        <gravity>0.45</gravity>
+      </world-size>
+      <gas-giant>yes</gas-giant>
+      <tags count='2'>
+        <tag>Perimeter Agency</tag>
+        <tag>Police State</tag>
+      </tags>
+      <enemies count='3'>
+        <enemy>Secret police chief</enemy>
+        <enemy>Paranoid intelligence chief</enemy>
+        <enemy>Treacherous native informer</enemy>
+      </enemies>
+      <friends count='3'>
+        <friend>"Unjustly" targeted researcher</friend>
+        <friend>Crime boss</friend>
+        <friend>Support staffer</friend>
+      </friends>
+      <complications count='3'>
+        <complication>The police state is automated and its "rulers" can't shut it off</complication>
+        <complication>The Agency's existence is unknown to the locals</complication>
+        <complication>The local Agency has gone rogue and now uses maltech</complication>
+      </complications>
+      <things count='3'>
+        <thing>Wealth taken from "enemies of the state"</thing>
+        <thing>Agency pretech spec-ops gear</thing>
+        <thing>Agency maltech research archives</thing>
+      </things>
+      <places count='3'>
+        <place>Surveillance center</place>
+        <place>Gray concrete housing block</place>
+        <place>Smoky bar</place>
+      </places>
+    </star>
+  </stars>
+  <trade-routes />
+</subsector>

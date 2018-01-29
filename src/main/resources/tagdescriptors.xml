@@ -1,0 +1,1792 @@
+<tag-descriptors count="60">
+  <tag name="Abandoned Colony">
+    <description>The world once hosted a colony, whether human or otherwise, until some crisis or natural disaster drove the inhabitants away or killed them off. The colony might have been mercantile in nature, an expedition to extract valuable local resources, or it might have been a reclusive cabal of zealots. The remains of the colony are usually in ruins, and might still be dangerous from the aftermath of whatever destroyed it in the first place.</description>
+    <enemies>
+      <enemy>Crazed survivors</enemy>
+      <enemy>Ruthless plunderers of the ruins</enemy>
+      <enemy>Automated defense system</enemy>
+    </enemies>
+    <friends>
+      <friend>Inquisitive stellar archaeologist</friend>
+      <friend>Heir to the colony's property</friend>
+      <friend>Local wanting the place cleaned out</friend>
+    </friends>
+    <complications>
+      <complication>The local government wants the ruins to remain a secret</complication>
+      <complication>The locals claim ownership of it</complication>
+      <complication>The colony is crumbling and dangerous to navigate</complication>
+    </complications>
+    <things>
+      <thing>Long-lost property deeds</thing>
+      <thing>Relic stolen by the colonists when they left</thing>
+      <thing>Historical record of the colonization attempt</thing>
+    </things>
+    <places>
+      <place>Decaying habitation block</place>
+      <place>Vine-covered town square</place>
+      <place>Structure buried by an ancient landslide</place>
+    </places>
+  </tag>
+  <tag name="Alien Ruins">
+    <description>The world has significant alien ruins present. The locals may or may not permit others to investigate the ruins, and may make it difficult to remove any objects of value without substantial payment.</description>
+    <enemies>
+      <enemy>Customs inspector</enemy>
+      <enemy>Worshipper of the ruins</enemy>
+      <enemy>Hidden alien survivor</enemy>
+    </enemies>
+    <friends>
+      <friend>Curious scholar</friend>
+      <friend>Avaricious local resident</friend>
+      <friend>Interstellar smuggler</friend>
+    </friends>
+    <complications>
+      <complication>Traps in the ruins</complication>
+      <complication>Remote location</complication>
+      <complication>Paranoid customs officials</complication>
+    </complications>
+    <things>
+      <thing>Precious alien artifacts</thing>
+      <thing>Objects left with the remains of a prior unsuccessful expedition</thing>
+      <thing>Untranslated alien texts</thing>
+      <thing>Untouched hidden ruins</thing>
+    </things>
+    <places>
+      <place>Undersea ruin</place>
+      <place>Orbital ruin</place>
+      <place>Perfectly preserved alien building</place>
+      <place>Alien mausoleum</place>
+    </places>
+  </tag>
+  <tag name="Altered Humanity">
+    <description>The humans on this world are visibly and drastically different from normal humanity. They may have additional limbs, new sensory organs, or other significant changes. Were these from ancestral eugenic manipulation, or from environmental toxins?</description>
+    <enemies>
+      <enemy>Biochauvinist local</enemy>
+      <enemy>Local experimenter</enemy>
+      <enemy>Mentally unstable mutant</enemy>
+    </enemies>
+    <friends>
+      <friend>Local seeking a "cure"</friend>
+      <friend>Curious xenophiliac</friend>
+      <friend>Anthropological researcher</friend>
+    </friends>
+    <complications>
+      <complication>Alteration is contagious</complication>
+      <complication>Alteration is necessary for long-term survival</complication>
+      <complication>Locals fear and mistrust non-local humans</complication>
+    </complications>
+    <things>
+      <thing>Original pretech mutagenic equipment</thing>
+      <thing>Valuable biological byproduct from the mutants</thing>
+      <thing>"Cure" for the altered genes</thing>
+      <thing>Record of the original colonial genotypes</thing>
+    </things>
+    <places>
+      <place>Abandoned eugenics laboratory</place>
+      <place>An environment requiring the mutation for survival</place>
+      <place>A sacred site where the first local was transformed</place>
+    </places>
+  </tag>
+  <tag name="Area 51">
+    <description>The world's government is fully aware of their local stellar neighbors, but the common populace has no idea about it- and the government means to keep it that way. Trade with government officials in remote locations is possible, but any attempt to clue the commoners in on the truth will be met with lethal reprisals.</description>
+    <enemies>
+      <enemy>Suspicious government minder</enemy>
+      <enemy>Free merchant who likes his local monopoly</enemy>
+      <enemy>Local who wants a specimen for dissection</enemy>
+    </enemies>
+    <friends>
+      <friend>Crusading offworld investigator</friend>
+      <friend>Conspiracy-theorist local</friend>
+      <friend>Idealistic government reformer</friend>
+    </friends>
+    <complications>
+      <complication>The government has a good reason to keep the truth concealed</complication>
+      <complication>The government ruthlessly oppresses the natives</complication>
+      <complication>The government is actually composed of offworlders</complication>
+    </complications>
+    <things>
+      <thing>Elaborate spy devices</thing>
+      <thing>Memory erasure tech</thing>
+      <thing>Possessions of the last offworlder who decided to spread the truth</thing>
+    </things>
+    <places>
+      <place>Desert airfield</place>
+      <place>Deep subterranean bunker</place>
+      <place>Hidden mountain valley</place>
+    </places>
+  </tag>
+  <tag name="Badlands World">
+    <description>Whatever the ostensible climate and atmosphere type, something horrible happened to this world. Biological, chemical, or nanotechnical weaponry has reduced it to a wretched hellscape.</description>
+    <enemies>
+      <enemy>Mutated badlands fauna</enemy>
+      <enemy>Desperate local</enemy>
+      <enemy>Badlands raider chief</enemy>
+    </enemies>
+    <friends>
+      <friend>Native desperately wishing to escape the world</friend>
+      <friend>Scientist researching ecological repair methods</friend>
+      <friend>Ruin scavenger</friend>
+    </friends>
+    <complications>
+      <complication>Radioactivity</complication>
+      <complication>Bioweapon traces</complication>
+      <complication>Broken terrain</complication>
+      <complication>Sudden local plague</complication>
+    </complications>
+    <things>
+      <thing>Maltech research core</thing>
+      <thing>Functional pretech weaponry</thing>
+      <thing>An uncontaminated well</thing>
+    </things>
+    <places>
+      <place>Untouched oasis</place>
+      <place>Ruined city</place>
+      <place>Salt flat</place>
+    </places>
+  </tag>
+  <tag name="Bubble Cities">
+    <description>Whether due to a lack of atmosphere or an uninhabitable climate, the world's cities exist within domes or pressurized buildings. In such sealed environments, techniques of surveillance and control can grow baroque and extreme.</description>
+    <enemies>
+      <enemy>Native dreading outsider contamination</enemy>
+      <enemy>Saboteur from another bubble city</enemy>
+      <enemy>Local official hostile to outsider ignorance of laws</enemy>
+    </enemies>
+    <friends>
+      <friend>Local rebel against the city officials</friend>
+      <friend>Maintenance chief in need of help</friend>
+      <friend>Surveyor seeking new building sites</friend>
+    </friends>
+    <complications>
+      <complication>Bubble rupture</complication>
+      <complication>Failing atmosphere reprocessor</complication>
+      <complication>Native revolt against officials</complication>
+      <complication>All-seeing surveillance cameras</complication>
+    </complications>
+    <things>
+      <thing>Pretech habitat technology</thing>
+      <thing>Valuable industrial products</thing>
+      <thing>Master key codes to a city's security system</thing>
+    </things>
+    <places>
+      <place>City power core</place>
+      <place>Surface of the bubble</place>
+      <place>Hydroponics complex</place>
+      <place>Warren-like hab block</place>
+    </places>
+  </tag>
+  <tag name="Civil War">
+    <description>The world is currently torn between at least two opposing factions, all of which claim legitimacy. The war may be the result of a successful rebel uprising against tyranny, or it might just be the result of schemers who plan to be the new masters once the revolution is complete.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Faction commissar</enemy>
+      <enemy>Angry native</enemy>
+      <enemy>Conspiracy theorist who blames offworlders for the war</enemy>
+      <enemy>Deserter looking out for himself</enemy>
+      <enemy>Guerilla bandits</enemy>
+    </enemies>
+    <friends>
+      <friend>Faction loyalist seeking aid</friend>
+      <friend>Native caught in the crossfire</friend>
+      <friend>Offworlder seeking passage off the planet</friend>
+    </friends>
+    <complications>
+      <complication>The front rolls over the group</complication>
+      <complication>Famine strikes</complication>
+      <complication>Bandit infestations</complication>
+    </complications>
+    <things>
+      <thing>Ammo dump</thing>
+      <thing>Military cache</thing>
+      <thing>Treasure buried for after the war</thing>
+      <thing>Secret war plans</thing>
+    </things>
+    <places>
+      <place>Battle front</place>
+      <place>Bombed-out town</place>
+      <place>Rear-area red light zone</place>
+      <place>Propaganda broadcast tower</place>
+    </places>
+  </tag>
+  <tag name="Cold War">
+    <description>Two or more great powers control the planet, and they have a hostility to each other that's just barely less than open warfare. The hostility might be ideological in nature, or it might revolve around control of some local resource.</description>
+    <enemies>
+      <enemy>Suspicious chief of intelligence</enemy>
+      <enemy>Native who thinks the outworlders are with the other side</enemy>
+      <enemy>Femme fatale</enemy>
+    </enemies>
+    <friends>
+      <friend>Apolitical information broker</friend>
+      <friend>Spy for the other side</friend>
+      <friend>Unjustly accused innocent</friend>
+      <friend>"He's a bastard but he's our bastard" official</friend>
+    </friends>
+    <complications>
+      <complication>Police sweep</complication>
+      <complication>Low-level skirmishing</complication>
+      <complication>"Red scare"</complication>
+    </complications>
+    <things>
+      <thing>List of traitors in government</thing>
+      <thing>Secret military plans</thing>
+      <thing>Huge cache of weapons built up in preparation for war</thing>
+    </things>
+    <places>
+      <place>Seedy bar in a neutral area</place>
+      <place>Political rally</place>
+      <place>Isolated area where fighting is underway</place>
+    </places>
+  </tag>
+  <tag name="Colonized Population">
+    <description>A neighboring world has successfully colonized this less-advanced or less-organized planet, and the natives aren't happy about it. A puppet government may exist, but all real decisions are made by the local viceroy.</description>
+    <enemies>
+      <enemy>Suspicious security personnel</enemy>
+      <enemy>Offworlder-hating natives</enemy>
+      <enemy>Local crime boss preying on rich offworlders</enemy>
+    </enemies>
+    <friends>
+      <friend>Native resistance leader</friend>
+      <friend>Colonial official seeking help</friend>
+      <friend>Native caught between the two sides</friend>
+    </friends>
+    <complications>
+      <complication>Natives won't talk to offworlders</complication>
+      <complication>Colonial repression</complication>
+      <complication>Misunderstood local customs</complication>
+    </complications>
+    <things>
+      <thing>Relic of the resistance movement</thing>
+      <thing>List of collaborators</thing>
+      <thing>Precious substance extracted by colonial labor</thing>
+    </things>
+    <places>
+      <place>Deep wilderness resistance camp</place>
+      <place>City district off-limits to natives</place>
+      <place>Colonial labor site</place>
+    </places>
+  </tag>
+  <tag name="Desert World">
+    <description>The world may have a breathable atmosphere and a human-tolerable temperature range, but it is an arid, stony waste outside of a few places made habitable by human effort. The deep wastes are largely unexplored and inhabited by outcasts and worse.</description>
+    <enemies>
+      <enemy>Raider chieftain</enemy>
+      <enemy>Crazed hermit</enemy>
+      <enemy>Angry isolationists</enemy>
+      <enemy>Paranoid mineral prospector</enemy>
+      <enemy>Strange desert beast</enemy>
+    </enemies>
+    <friends>
+      <friend>Native guide</friend>
+      <friend>Research biologist</friend>
+      <friend>Aspiring terraformer</friend>
+    </friends>
+    <complications>
+      <complication>Sandstorms</complication>
+      <complication>Water supply failure</complication>
+      <complication>Native warfare over water rights</complication>
+    </complications>
+    <things>
+      <thing>Enormous water reservoir</thing>
+      <thing>Map of hidden wells</thing>
+      <thing>Pretech rainmaking equipment</thing>
+    </things>
+    <places>
+      <place>Oasis</place>
+      <place>"The Empty Quarter" of the desert</place>
+      <place>Hidden underground cistern</place>
+    </places>
+  </tag>
+  <tag name="Eugenic Cult">
+    <description>Even in the days before the Silence, major improvement of the human genome always seemed to come with unacceptable side-effects. Some worlds host secret cults that perpetuate these improvements regardless of the cost, and a few planets have been taken over entirely by the cults.</description>
+    <enemies>
+      <enemy>Eugenic superiority fanatic</enemy>
+      <enemy>Mentally unstable homo superior</enemy>
+      <enemy>Mad eugenic scientist</enemy>
+    </enemies>
+    <friends>
+      <friend>Eugenic propagandist</friend>
+      <friend>Biotechnical investigator</friend>
+      <friend>Local seeking revenge on cult</friend>
+    </friends>
+    <complications>
+      <complication>The altered cultists look human</complication>
+      <complication>The locals are terrified of any unusual physical appearance</complication>
+      <complication>The genetic modifications- and drawbacks- are contagious with long exposure</complication>
+    </complications>
+    <things>
+      <thing>Serum that induces the alteration</thing>
+      <thing>Elixir that reverses the alteration</thing>
+      <thing>Pretech biotechnical databanks</thing>
+      <thing>List of secret cult sympathizers</thing>
+    </things>
+    <places>
+      <place>Eugenic breeding pit</place>
+      <place>Isolated settlement of altered humans</place>
+      <place>Public place infiltrated by cult sympathizers</place>
+    </places>
+  </tag>
+  <tag name="Exchange Consulate">
+    <description>The Exchange of Light once served as the largest, most trusted banking and diplomatic service in human space. Even after the Silence, some worlds retain a functioning Exchange Consulate where banking services and arbitration can be arranged.</description>
+    <enemies>
+      <enemy>Corrupt Exchange official</enemy>
+      <enemy>Indebted native who thinks the players are Exchange agents</enemy>
+      <enemy>Exchange official dunning the players for debts incurred</enemy>
+    </enemies>
+    <friends>
+      <friend>Consul in need of offworld help</friend>
+      <friend>Local banker seeking to hurt his competition</friend>
+      <friend>Exchange diplomat</friend>
+    </friends>
+    <complications>
+      <complication>The local Consulate has been corrupted</complication>
+      <complication>The Consulate is cut off from its funds</complication>
+      <complication>A powerful debtor refuses to pay</complication>
+    </complications>
+    <things>
+      <thing>Exchange vault codes</thing>
+      <thing>Wealth hidden to conceal it from a bankruptcy judgment</thing>
+      <thing>Location of forgotten vault</thing>
+    </things>
+    <places>
+      <place>Consulate meeting chamber</place>
+      <place>Meeting site between fractious disputants</place>
+      <place>Exchange vault</place>
+    </places>
+  </tag>
+  <tag name="Feral World">
+    <description>In the long, isolated night of the Silence, some worlds have experienced total moral and cultural collapse. Whatever remains has been twisted beyond recognition into assorted death cults, xenophobic fanaticism, horrific cultural practices, or other behavior unacceptable on more enlightened worlds. These worlds are almost invariably classed under Red trade codes.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Decadent noble</enemy>
+      <enemy>Mad cultist</enemy>
+      <enemy>Xenophobic local</enemy>
+      <enemy>Cannibal chief</enemy>
+      <enemy>Maltech researcher</enemy>
+    </enemies>
+    <friends>
+      <friend>Trapped outworlder</friend>
+      <friend>Aspiring reformer</friend>
+      <friend>Native wanting to avoid traditional flensing</friend>
+    </friends>
+    <complications>
+      <complication>Horrific local "celebration"</complication>
+      <complication>Inexplicable and repugnant social rules</complication>
+      <complication>Taboo zones and people</complication>
+    </complications>
+    <things>
+      <thing>Terribly misused piece of pretech</thing>
+      <thing>Wealth accumulated through brutal evildoing</thing>
+      <thing>Valuable possession owned by luckless outworlder victim</thing>
+    </things>
+    <places>
+      <place>Atrocity amphitheater</place>
+      <place>Traditional torture parlor</place>
+      <place>Ordinary location twisted into something terrible.</place>
+    </places>
+  </tag>
+  <tag name="Flying Cities">
+    <description>Perhaps the world is a gas giant, or plagued with unendurable storms at lower levels of the atmosphere. For whatever reason, the cities of this world fly above the surface of the planet. Perhaps they remain stationary, or perhaps they move from point to point in search of resources.</description>
+    <enemies>
+      <enemy>Rival city pilot</enemy>
+      <enemy>Tech thief attempting to steal outworld gear</enemy>
+      <enemy>Saboteur or scavenger plundering the city's tech</enemy>
+    </enemies>
+    <friends>
+      <friend>Maintenance tech in need of help</friend>
+      <friend>City defense force pilot</friend>
+      <friend>Meteorological researcher</friend>
+    </friends>
+    <complications>
+      <complication>Sudden storms</complication>
+      <complication>Drastic altitude loss</complication>
+      <complication>Rival city attacks</complication>
+      <complication>Vital machinery breaks down</complication>
+    </complications>
+    <things>
+      <thing>Precious refined atmospheric gases</thing>
+      <thing>Pretech grav engine plans</thing>
+      <thing>Meteorological codex predicting future storms</thing>
+    </things>
+    <places>
+      <place>Underside of the city</place>
+      <place>The one calm place on the planet's surface</place>
+      <place>Catwalks stretching over unimaginable gulfs below.</place>
+    </places>
+  </tag>
+  <tag name="Forbidden Tech">
+    <description>Some group on this planet fabricates or uses maltech. Unbraked AIs doomed to metastasize into insanity, nation-destroying nanowarfare particles, slow-burn DNA corruptives, genetically engineered slaves, or something worse still. The planet's larger population may or may not be aware of the danger in their midst.</description>
+    <enemies>
+      <enemy>Mad scientist</enemy>
+      <enemy>Maltech buyer from offworld</enemy>
+      <enemy>Security enforcer</enemy>
+    </enemies>
+    <friends>
+      <friend>Victim of maltech</friend>
+      <friend>Perimeter agent</friend>
+      <friend>Investigative reporter</friend>
+      <friend>Conventional arms merchant</friend>
+    </friends>
+    <complications>
+      <complication>The maltech is being fabricated by an unbraked AI</complication>
+      <complication>The government depends on revenue from maltech sales to offworlders</complication>
+      <complication>Citizens insist that it's not really maltech</complication>
+    </complications>
+    <things>
+      <thing>Maltech research data</thing>
+      <thing>The maltech itself</thing>
+      <thing>Precious pretech equipment used to create it</thing>
+    </things>
+    <places>
+      <place>Horrific laboratory</place>
+      <place>Hellscape sculpted by the maltech's use</place>
+      <place>Government building meeting room</place>
+    </places>
+  </tag>
+  <tag name="Friendly Foe">
+    <description>Some hostile alien race or malevolent cabal has a branch or sect on this world that is actually quite friendly toward outsiders. For whatever internal reason, they are willing to negotiate and deal honestly with strangers, and appear to lack the worst impulses of their fellows.</description>
+    <enemies>
+      <enemy>Driven hater of all their kind</enemy>
+      <enemy>Internal malcontent bent on creating conflict</enemy>
+      <enemy>Secret master who seeks to lure trust</enemy>
+    </enemies>
+    <friends>
+      <friend>Well-meaning bug-eyed monster</friend>
+      <friend>Principled eugenics cultist</friend>
+      <friend>Suspicious investigator</friend>
+    </friends>
+    <complications>
+      <complication>The group actually is as harmless and benevolent as they seem</complication>
+      <complication>The group offers a vital service at the cost of moral compromise</complication>
+      <complication>The group still feels bonds of affiliation with their hostile brethren</complication>
+    </complications>
+    <things>
+      <thing>Forbidden xenotech</thing>
+      <thing>Eugenic biotech template</thing>
+      <thing>Evidence to convince others of their kind that they are right</thing>
+    </things>
+    <places>
+      <place>Repurposed maltech laboratory</place>
+      <place>Alien conclave building</place>
+      <place>Widely-feared starship interior</place>
+    </places>
+  </tag>
+  <tag name="Freak Geology">
+    <description>The geology or geography of this world is simply freakish. Perhaps it's composed entirely of enormous mountain ranges, or regular bands of land and sea, or the mineral structures all fragment into perfect cubes. The locals have learned to deal with it and their culture will be shaped by its requirements.</description>
+    <enemies>
+      <enemy>Crank xenogeologist</enemy>
+      <enemy>Cultist who believes it the work of aliens</enemy>
+    </enemies>
+    <friends>
+      <friend>Research scientist</friend>
+      <friend>Prospector</friend>
+      <friend>Artist</friend>
+    </friends>
+    <complications>
+      <complication>Local conditions that no one remembers to tell outworlders about</complication>
+      <complication>Lethal weather</complication>
+      <complication>Seismic activity</complication>
+    </complications>
+    <things>
+      <thing>Unique crystal formations</thing>
+      <thing>Hidden veins of a major precious mineral strike</thing>
+      <thing>Deed to a location of great natural beauty</thing>
+    </things>
+    <places>
+      <place>Atop a bizarre geological formation</place>
+      <place>Tourist resort catering to offworlders</place>
+    </places>
+  </tag>
+  <tag name="Freak Weather">
+    <description>The planet is plagued with some sort of bizarre or hazardous weather pattern. Perhaps city-flattening storms regularly scourge the surface, or the world's sun never pierces its thick banks of clouds.</description>
+    <enemies>
+      <enemy>Criminal using the weather as a cover</enemy>
+      <enemy>Weather cultists convinced the offworlders are responsible for some disaster</enemy>
+      <enemy>Native predators dependent on the weather</enemy>
+    </enemies>
+    <friends>
+      <friend>Meteorological researcher</friend>
+      <friend>Holodoc crew wanting shots of the weather</friend>
+    </friends>
+    <complications>
+      <complication>The weather itself</complication>
+      <complication>Malfunctioning pretech terraforming engines that cause the weather</complication>
+    </complications>
+    <things>
+      <thing>Wind-scoured deposits of precious minerals</thing>
+      <thing>Holorecords of a spectacularly and rare weather pattern</thing>
+      <thing>Naturally sculpted objects of intricate beauty</thing>
+    </things>
+    <places>
+      <place>Eye of the storm</place>
+      <place>The one sunlit place</place>
+      <place>Terraforming control room</place>
+    </places>
+  </tag>
+  <tag name="Gold Rush">
+    <description>Gold, silver, and other conventional precious minerals are common and cheap now that asteroid mining is practical for most worlds. But some minerals and compounds remain precious and rare, and this world has recently been discovered to have a supply of them. People from across the sector have come to strike it rich.</description>
+    <enemies>
+      <enemy>Paranoid prospector</enemy>
+      <enemy>Aspiring mining tycoon</enemy>
+      <enemy>Rapacious merchant</enemy>
+    </enemies>
+    <friends>
+      <friend>Claim-jumped miner</friend>
+      <friend>Native alien</friend>
+      <friend>Curious tourist</friend>
+    </friends>
+    <complications>
+      <complication>The strike is a hoax</complication>
+      <complication>The strike is of a dangerous toxic substance</complication>
+      <complication>Export of the mineral is prohibited by the planetary government</complication>
+      <complication>The native aliens live around the strike's location</complication>
+    </complications>
+    <things>
+      <thing>Cases of the refined element</thing>
+      <thing>Pretech mining equipment</thing>
+      <thing>A dead prospector's claim deed</thing>
+    </things>
+    <places>
+      <place>Secret mine</place>
+      <place>Native alien village</place>
+      <place>Processing plant</place>
+      <place>Boom town</place>
+    </places>
+  </tag>
+  <tag name="Hatred">
+    <description>For whatever reason, this world's populace has a burning hatred for the inhabitants of a neighboring system. Perhaps this world was colonized by exiles, or there was a recent interstellar war, or ideas of racial or religious superiority have fanned the hatred. Regardless of the cause, the locals view their neighbor and any sympathizers with loathing.</description>
+    <enemies>
+      <enemy>Native convinced that the offworlders are agents of Them</enemy>
+      <enemy>Cynical politician in need of scapegoats</enemy>
+    </enemies>
+    <friends>
+      <friend>Intelligence agent needing catspaws</friend>
+      <friend>Holodoc producers needing "an inside look"</friend>
+    </friends>
+    <complications>
+      <complication>The characters are wearing or using items from the hated world</complication>
+      <complication>The characters are known to have done business there</complication>
+      <complication>The characters "look like" the hated others</complication>
+    </complications>
+    <things>
+      <thing>Proof of Their evildoing</thing>
+      <thing>Reward for turning in enemy agents</thing>
+      <thing>Relic stolen by Them years ago</thing>
+    </things>
+    <places>
+      <place>War crimes museum</place>
+      <place>Atrocity site</place>
+      <place>Captured decommissioned spaceship kept as a trophy</place>
+    </places>
+  </tag>
+  <tag name="Heavy Industry">
+    <description>With interstellar transport so limited in the bulk it can move, worlds have to be largely self-sufficient in industry. Some worlds are more sufficient than others, however, and this planet has a thriving manufacturing sector capable of producing large amounts of goods appropriate to its tech level. The locals may enjoy a correspondingly higher lifestyle, or the products might be devoted towards vast projects for the aggrandizement of the rulers.</description>
+    <enemies>
+      <enemy>Tycoon monopolist</enemy>
+      <enemy>Industrial spy</enemy>
+      <enemy>Malcontent revolutionary</enemy>
+    </enemies>
+    <friends>
+      <friend>Aspiring entrepreneur</friend>
+      <friend>Worker union leader</friend>
+      <friend>Ambitious inventor</friend>
+    </friends>
+    <complications>
+      <complication>The factories are toxic</complication>
+      <complication>The resources extractable at their tech level are running out</complication>
+      <complication>The masses require the factory output for survival</complication>
+      <complication>The industries' major output is being obsoleted by offworld tech</complication>
+    </complications>
+    <things>
+      <thing>Confidential industrial data</thing>
+      <thing>Secret union membership lists</thing>
+      <thing>Ownership shares in an industrial complex</thing>
+    </things>
+    <places>
+      <place>Factory floor</place>
+      <place>Union meeting hall</place>
+      <place>Toxic waste dump</place>
+      <place>R&amp;D complex</place>
+    </places>
+  </tag>
+  <tag name="Heavy Mining">
+    <description>This world has large stocks of valuable minerals, usually necessary for local industry, life support, or refinement into loads small enough to export offworld. Major mining efforts are necessary to extract the minerals, and many natives work in the industry.</description>
+    <enemies>
+      <enemy>Mine boss</enemy>
+      <enemy>Tunnel saboteur</enemy>
+      <enemy>Subterranean predators</enemy>
+    </enemies>
+    <friends>
+      <friend>Hermit prospector</friend>
+      <friend>Offworld investor</friend>
+      <friend>Miner's union representative</friend>
+    </friends>
+    <complications>
+      <complication>The refinery equipment breaks down</complication>
+      <complication>Tunnel collapse</complication>
+      <complication>Silicate life forms growing in the miners' lungs</complication>
+    </complications>
+    <things>
+      <thing>The mother lode</thing>
+      <thing>Smuggled case of refined mineral</thing>
+      <thing>Faked crystalline mineral samples</thing>
+    </things>
+    <places>
+      <place>Vertical mine face</place>
+      <place>Tailing piles</place>
+      <place>Roaring smelting complex</place>
+    </places>
+  </tag>
+  <tag name="Hostile Biosphere">
+    <description>The world is teeming with life, and it hates humans. Perhaps the life is xenoallergenic, forcing filter masks and tailored antiallergens for survival. It could be the native predators are huge and fearless, or the toxic flora ruthlessly outcompetes earth crops.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Local fauna</enemy>
+      <enemy>Nature cultist</enemy>
+      <enemy>Native aliens</enemy>
+      <enemy>Callous labor overseer</enemy>
+    </enemies>
+    <friends>
+      <friend>Xenobiologist</friend>
+      <friend>Tourist on safari</friend>
+      <friend>Grizzled local guide</friend>
+    </friends>
+    <complications>
+      <complication>Filter masks fail</complication>
+      <complication>Parasitic alien infestation</complication>
+      <complication>Crop greenhouses lose bio-integrity</complication>
+    </complications>
+    <things>
+      <thing>Valuable native biological extract</thing>
+      <thing>Abandoned colony vault</thing>
+      <thing>Remains of an unsuccessful expedition</thing>
+    </things>
+    <places>
+      <place>Deceptively peaceful glade</place>
+      <place>Steaming polychrome jungle</place>
+      <place>Nightfall when surrounded by Things</place>
+    </places>
+  </tag>
+  <tag name="Hostile Space">
+    <description>The system in which the world exists is a dangerous neighborhood. Something about the system is perilous to inhabitants, either through meteor swarms, stellar radiation, hostile aliens in the asteroid belt, or periodic comet clouds.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Alien raid leader</enemy>
+      <enemy>Meteor-launching terrorists</enemy>
+      <enemy>Paranoid local leader</enemy>
+    </enemies>
+    <friends>
+      <friend>Astronomic researcher</friend>
+      <friend>Local defense commander</friend>
+      <friend>Early warning monitor agent</friend>
+    </friends>
+    <complications>
+      <complication>The natives believe the danger is divine chastisement</complication>
+      <complication>The natives blame outworlders for the danger</complication>
+      <complication>The native elite profit from the danger in some way</complication>
+    </complications>
+    <things>
+      <thing>Early warning of a raid or impact</thing>
+      <thing>Abandoned riches in a disaster zone</thing>
+      <thing>Key to a secure bunker</thing>
+    </things>
+    <places>
+      <place>City watching an approaching asteroid</place>
+      <place>Village burnt in an alien raid</place>
+      <place>Massive ancient crater</place>
+    </places>
+  </tag>
+  <tag name="Local Specialty">
+    <description>The world may be sophisticated or barely capable of steam engines, but either way it produces something rare and precious to the wider galaxy. It might be some pharmaceutical extract produced by a secret recipe, a remarkably popular cultural product, or even gengineered humans uniquely suited for certain work.</description>
+    <enemies>
+      <enemy>Monopolist</enemy>
+      <enemy>Offworlder seeking prohibition of the specialty</enemy>
+      <enemy>Native who views the specialty as sacred</enemy>
+    </enemies>
+    <friends>
+      <friend>Spy searching for the source</friend>
+      <friend>Artisan seeking protection</friend>
+      <friend>Exporter with problems</friend>
+    </friends>
+    <complications>
+      <complication>The specialty is repugnant in nature</complication>
+      <complication>The crafters refuse to sell to offworlders</complication>
+      <complication>The specialty is made in a remote dangerous place</complication>
+      <complication>The crafters don't want to make the specialty any more</complication>
+    </complications>
+    <things>
+      <thing>The specialty itself</thing>
+      <thing>The secret recipe</thing>
+      <thing>Sample of a new improved variety</thing>
+    </things>
+    <places>
+      <place>Secret manufactory</place>
+      <place>Hidden cache</place>
+      <place>Artistic competition for best artisan</place>
+    </places>
+  </tag>
+  <tag name="Local Tech">
+    <description>The locals can create a particular example of extremely high tech, possibly even something that exceeds pretech standards. They may use unique local resources to do so, or have stumbled on a narrow scientific breakthrough, or still have a functional experimental manufactory.</description>
+    <enemies>
+      <enemy>Keeper of the tech</enemy>
+      <enemy>Offworld industrialist</enemy>
+      <enemy>Automated defenses that suddenly come alive</enemy>
+      <enemy>Native alien mentors</enemy>
+    </enemies>
+    <friends>
+      <friend>Curious offworld scientist</friend>
+      <friend>Eager tech buyer</friend>
+      <friend>Native in need of technical help</friend>
+    </friends>
+    <complications>
+      <complication>The tech is unreliable</complication>
+      <complication>The tech only works on this world</complication>
+      <complication>The tech has poorly-understood side effects</complication>
+      <complication>The tech is alien in nature.</complication>
+    </complications>
+    <things>
+      <thing>The tech itself</thing>
+      <thing>An unclaimed payment for a large shipment</thing>
+      <thing>The secret blueprints for its construction</thing>
+      <thing>An ancient alien R&amp;D database</thing>
+    </things>
+    <places>
+      <place>Alien factory</place>
+      <place>Lethal R&amp;D center</place>
+      <place>Tech brokerage vault</place>
+    </places>
+  </tag>
+  <tag name="Major Spaceyard">
+    <description>Most worlds of tech level 4 or greater have the necessary tech and orbital facilities to build spike drives and starships. This world is blessed with a major spaceyard facility, either inherited from before the Silence or painstakingly constructed in more recent decades. It can build even capital-class hulls, and do so more quickly and cheaply than its neighbors.</description>
+    <enemies>
+      <enemy>Enemy saboteur</enemy>
+      <enemy>Industrial spy</enemy>
+      <enemy>Scheming construction tycoon</enemy>
+      <enemy>Aspiring ship hijacker</enemy>
+    </enemies>
+    <friends>
+      <friend>Captain stuck in drydock</friend>
+      <friend>Maintenance chief</friend>
+      <friend>Mad innovator</friend>
+    </friends>
+    <complications>
+      <complication>The spaceyard is an alien relic</complication>
+      <complication>The spaceyard is burning out from overuse</complication>
+      <complication>The spaceyard is alive</complication>
+      <complication>The spaceyard relies on maltech to function</complication>
+    </complications>
+    <things>
+      <thing>Intellectual property-locked pretech blueprints</thing>
+      <thing>Override keys for activating old pretech facilities</thing>
+      <thing>A purchased but unclaimed spaceship.</thing>
+    </things>
+    <places>
+      <place>Hidden shipyard bay</place>
+      <place>Surface of a partially-completed ship</place>
+      <place>Ship scrap graveyard</place>
+    </places>
+  </tag>
+  <tag name="Minimal Contact">
+    <description>The locals refuse most contact with offworlders. Only a small, quarantined treaty port is provided for offworld trade, and ships can expect an exhaustive search for contraband. Local governments may be trying to keep the very existence of interstellar trade a secret from their populations, or they may simply consider offworlders too dangerous or repugnant to be allowed among the population.</description>
+    <enemies>
+      <enemy>Customs official</enemy>
+      <enemy>Xenophobic natives</enemy>
+      <enemy>Existing merchant who doesn't like competition</enemy>
+    </enemies>
+    <friends>
+      <friend>Aspiring tourist</friend>
+      <friend>Anthropological researcher</friend>
+      <friend>Offworld thief</friend>
+      <friend>Religious missionary</friend>
+    </friends>
+    <complications>
+      <complication>The locals carry a disease harmless to them and lethal to outsiders</complication>
+      <complication>The locals hide dark purposes from offworlders</complication>
+      <complication>The locals have something desperately needed but won't bring it into the treaty port</complication>
+    </complications>
+    <things>
+      <thing>Contraband trade goods</thing>
+      <thing>Security perimeter codes</thing>
+      <thing>Black market local products</thing>
+    </things>
+    <places>
+      <place>Treaty port bar</place>
+      <place>Black market zone</place>
+      <place>Secret smuggler landing site</place>
+    </places>
+  </tag>
+  <tag name="Misandry/Misogyny">
+    <description>The culture on this world holds a particular gender in contempt. Members of that gender are not permitted positions of formal power, and may be restricted in their movements and activities. Some worlds may go so far as to scorn both traditional genders, using gengineering techniques to hybridize or alter conventional human biology.</description>
+    <enemies>
+      <enemy>Cultural fundamentalist</enemy>
+      <enemy>Cultural missionary to outworlders</enemy>
+    </enemies>
+    <friends>
+      <friend>Oppressed native</friend>
+      <friend>Research scientist</friend>
+      <friend>Offworld emancipationist</friend>
+      <friend>Local reformer</friend>
+    </friends>
+    <complications>
+      <complication>The oppressed gender is restive against the customs</complication>
+      <complication>The oppressed gender largely supports the customs</complication>
+      <complication>The customs relate to some physical quality of the world</complication>
+      <complication>The oppressed gender has had maltech gengineering done to "tame" them.</complication>
+    </complications>
+    <things>
+      <thing>Aerosol reversion formula for undoing gengineered docility</thing>
+      <thing>Hidden history of the world</thing>
+      <thing>Pretech gengineering equipment</thing>
+    </things>
+    <places>
+      <place>Shrine to the virtues of the favored gender</place>
+      <place>Security center for controlling the oppressed</place>
+      <place>Gengineering lab</place>
+    </places>
+  </tag>
+  <tag name="Oceanic World">
+    <description>The world is entirely or almost entirely covered with liquid water. Habitations might be floating cities, or might cling precariously to the few rocky atolls jutting up from the waves, or are planted as bubbles on promontories deep beneath the stormy surface. Survival depends on aquaculture. Planets with inedible alien life rely on gengineered Terran sea crops.</description>
+    <enemies>
+      <enemy>Pirate raider</enemy>
+      <enemy>Violent "salvager" gang</enemy>
+      <enemy>Tentacled sea monster</enemy>
+    </enemies>
+    <friends>
+      <friend>Daredevil fisherman</friend>
+      <friend>Sea hermit</friend>
+      <friend>Sapient native life</friend>
+    </friends>
+    <complications>
+      <complication>The liquid flux confuses grav engines too badly for them to function on this world</complication>
+      <complication>Sea is corrosive or toxic</complication>
+      <complication>The seas are wracked by regular storms</complication>
+    </complications>
+    <things>
+      <thing>Buried pirate treasure</thing>
+      <thing>Location of enormous schools of fish</thing>
+      <thing>Pretech water purification equipment</thing>
+    </things>
+    <places>
+      <place>The only island on the planet</place>
+      <place>Floating spaceport</place>
+      <place>Deck of a storm-swept ship</place>
+      <place>Undersea bubble city</place>
+    </places>
+  </tag>
+  <tag name="Out of Contact">
+    <description>The natives have been entirely out of contact with the greater galaxy for centuries or longer. Perhaps the original colonists were seeking to hide from the rest of the universe, or the Silence destroyed any means of communication. It may have been so long that human origins on other worlds have regressed into a topic for legends. The players might be on the first offworld ship to land since the First Wave of colonization a thousand years ago.</description>
+    <enemies>
+      <enemy>Fearful local ruler</enemy>
+      <enemy>Zealous native cleric</enemy>
+      <enemy>Sinister power that has kept the world isolated</enemy>
+    </enemies>
+    <friends>
+      <friend>Scheming native noble</friend>
+      <friend>Heretical theologian</friend>
+      <friend>UFO cultist native</friend>
+    </friends>
+    <complications>
+      <complication>Automatic defenses fire on ships that try to take off</complication>
+      <complication>The natives want to stay out of contact</complication>
+      <complication>The natives are highly vulnerable to offworld diseases</complication>
+      <complication>The native language is completely unlike any known to the group</complication>
+    </complications>
+    <things>
+      <thing>Ancient pretech equipment</thing>
+      <thing>Terran relic brought from Earth</thing>
+      <thing>Logs of the original colonists</thing>
+    </things>
+    <places>
+      <place>Long-lost colonial landing site</place>
+      <place>Court of the local ruler</place>
+      <place>Ancient defense battery controls</place>
+    </places>
+  </tag>
+  <tag name="Outpost World">
+    <description>The world is only a tiny outpost of human habitation planted by an offworld corporation or government. Perhaps the staff is there to serve as a refueling and repair stop for passing ships, or to oversee an automated mining and refinery complex. They might be there to study ancient ruins, or simply serve as a listening and monitoring post for traffic through the system. The outpost is likely well-equipped with defenses against casual piracy.</description>
+    <enemies>
+      <enemy>Space-mad outpost staffer</enemy>
+      <enemy>Outpost commander who wants it to stay undiscovered</enemy>
+      <enemy>Undercover saboteur</enemy>
+    </enemies>
+    <friends>
+      <friend>Lonely staffer</friend>
+      <friend>Fixated researcher</friend>
+      <friend>Overtaxed maintenance chief</friend>
+    </friends>
+    <complications>
+      <complication>The alien ruin defense systems are waking up</complication>
+      <complication>Atmospheric disturbances trap the group inside the outpost for a month</complication>
+      <complication>Pirates raid the outpost</complication>
+      <complication>The crew have become converts to a strange set of beliefs</complication>
+    </complications>
+    <things>
+      <thing>Alien relics</thing>
+      <thing>Vital scientific data</thing>
+      <thing>Secret corporate exploitation plans</thing>
+    </things>
+    <places>
+      <place>Grimy recreation room</place>
+      <place>Refueling station</place>
+      <place>The only building on the planet</place>
+      <place>A "starport" of swept bare rock.</place>
+    </places>
+  </tag>
+  <tag name="Perimeter Agency">
+    <description>Before the Silence, the Perimeter was a Terran-sponsored organization charged with rooting out use of maltech- technology banned in human space as too dangerous for use or experimentation. Unbraked AIs, gengineered slave species, nanotech replicators, weapons of planetary destruction... the Perimeter hunted down experimenters with a great indifference to planetary laws. Most Perimeter Agencies collapsed during the Silence, but a few managed to hold on to their mission, though modern Perimeter agents often find more work as conventional spies and intelligence operatives.</description>
+    <enemies>
+      <enemy>Renegade Agency Director</enemy>
+      <enemy>Maltech researcher</enemy>
+      <enemy>Paranoid intelligence chief</enemy>
+    </enemies>
+    <friends>
+      <friend>Agent in need of help</friend>
+      <friend>Support staffer</friend>
+      <friend>"Unjustly" targeted researcher</friend>
+    </friends>
+    <complications>
+      <complication>The local Agency has gone rogue and now uses maltech</complication>
+      <complication>The Agency archives have been compromised</complication>
+      <complication>The Agency has been targeted by a maltech-using organization</complication>
+      <complication>The Agency's existence is unknown to the locals</complication>
+    </complications>
+    <things>
+      <thing>Agency maltech research archives</thing>
+      <thing>Agency pretech spec-ops gear</thing>
+      <thing>File of blackmail on local politicians</thing>
+    </things>
+    <places>
+      <place>Interrogation room</place>
+      <place>Smoky bar</place>
+      <place>Maltech laboratory</place>
+      <place>Secret Agency base</place>
+    </places>
+  </tag>
+  <tag name="Pilgrimage Site">
+    <description>The world is noted for an important spiritual or historical location, and might be the sector headquarters for a widespread religion or political movement. The site attracts wealthy pilgrims from throughout nearby space, and those with the money necessary to manage interstellar travel can be quite generous to the site and its keepers. The locals tend to be fiercely protective of the place and its reputation, and some places may forbid the entrance of those not suitably pious or devout.</description>
+    <enemies>
+      <enemy>Saboteur devoted to a rival belief</enemy>
+      <enemy>Bitter reformer who resents the current leadership</enemy>
+      <enemy>Swindler conning the pilgrims</enemy>
+    </enemies>
+    <friends>
+      <friend>Protector of the holy site</friend>
+      <friend>Naive offworlder pilgrim</friend>
+      <friend>Outsider wanting to learn the sanctum's inner secrets</friend>
+    </friends>
+    <complications>
+      <complication>The site is actually a fake</complication>
+      <complication>The site is run by corrupt and venal keepers</complication>
+      <complication>A natural disaster threatens the site</complication>
+    </complications>
+    <things>
+      <thing>Ancient relic guarded at the site</thing>
+      <thing>Proof of the site's inauthenticity</thing>
+      <thing>Precious offering from a pilgrim</thing>
+    </things>
+    <places>
+      <place>Incense-scented sanctum</place>
+      <place>Teeming crowd of pilgrims</place>
+      <place>Imposing holy structure</place>
+    </places>
+  </tag>
+  <tag name="Police State">
+    <description>The world is a totalitarian police state. Any sign of disloyalty to the planet's rulers is punished severely, and suspicion riddles society. Some worlds might operate by Soviet-style informers and indoctrination, while more technically sophisticated worlds might rely on omnipresent cameras or braked AI "guardian angels". Outworlders are apt to be treated as a necessary evil at best, and "disappeared" if they become troublesome.</description>
+    <enemies>
+      <enemy>Secret police chief</enemy>
+      <enemy>Scapegoating official</enemy>
+      <enemy>Treacherous native informer</enemy>
+    </enemies>
+    <friends>
+      <friend>Rebel leader</friend>
+      <friend>Offworld agitator</friend>
+      <friend>Imprisoned victim</friend>
+      <friend>Crime boss</friend>
+    </friends>
+    <complications>
+      <complication>The natives largely believe in the righteousness of the state</complication>
+      <complication>The police state is automated and its "rulers" can't shut it off</complication>
+      <complication>The leaders foment a pogrom against "offworlder spies".</complication>
+    </complications>
+    <things>
+      <thing>List of police informers</thing>
+      <thing>Wealth taken from "enemies of the state"</thing>
+      <thing>Dear Leader's private stash</thing>
+    </things>
+    <places>
+      <place>Military parade</place>
+      <place>Gulag</place>
+      <place>Gray concrete housing block</place>
+      <place>Surveillance center</place>
+    </places>
+  </tag>
+  <tag name="Preceptor Archive">
+    <description>The Preceptors of the Great Archive were a pre-Silence organization devoted to ensuring the dissemination of human culture, history, and basic technology to frontier worlds that risked losing this information during the human expansion. Most frontier planets had an Archive where natives could learn useful technical skills in addition to human history and art. Those Archives that managed to survive the Silence now strive to send their missionaries of knowledge to new worlds in need of their lore.</description>
+    <enemies>
+      <enemy>Luddite native</enemy>
+      <enemy>Offworld Merchant who wants the natives kept ignorant</enemy>
+      <enemy>Religious zealot</enemy>
+      <enemy>Corrupted First Speaker who wants to keep a monopoly on learning</enemy>
+    </enemies>
+    <friends>
+      <friend>Preceptor Adept missionary</friend>
+      <friend>Offworld scholar</friend>
+      <friend>Reluctant student</friend>
+      <friend>Roving Preceptor Adept</friend>
+    </friends>
+    <complications>
+      <complication>The local Archive has taken a very religious and mystical attitude toward their teaching</complication>
+      <complication>The Archive has maintained some replicable pretech science</complication>
+      <complication>The Archive has been corrupted and their teaching is incorrect</complication>
+    </complications>
+    <things>
+      <thing>Lost Archive database</thing>
+      <thing>Ancient pretech teaching equipment</thing>
+      <thing>Hidden cache of theologically unacceptable tech</thing>
+    </things>
+    <places>
+      <place>Archive lecture hall</place>
+      <place>Experimental laboratory</place>
+      <place>Student-local riot</place>
+    </places>
+  </tag>
+  <tag name="Pretech Cultists">
+    <description>The capacities of human science before the Silence vastly outmatch the technology available since the Scream. The jump gates alone were capable of crossing hundreds of light years in a moment, and they were just one example of the results won by blending psychic artifice with pretech science. Some worlds outright worship the artifacts of their ancestors, seeing in them the work of more enlightened and perfect humanity. These cultists may or may not understand the operation or replication of these devices, but they seek and guard them jealously.</description>
+    <enemies>
+      <enemy>Cult leader</enemy>
+      <enemy>Artifact supplier</enemy>
+      <enemy>Pretech smuggler</enemy>
+    </enemies>
+    <friends>
+      <friend>Offworld scientist</friend>
+      <friend>Robbed collector</friend>
+      <friend>Cult heretic</friend>
+    </friends>
+    <complications>
+      <complication>The cultists can actually replicate certain forms of pretech</complication>
+      <complication>The cultists abhor use of the devices as "presumption on the holy"</complication>
+      <complication>The cultists mistake the party's belongings for pretech</complication>
+    </complications>
+    <things>
+      <thing>Pretech artifacts both functional and broken</thing>
+      <thing>Religious-jargon laced pretech replication techniques</thing>
+      <thing>Waylaid payment for pretech artifacts</thing>
+    </things>
+    <places>
+      <place>Shrine to nonfunctional pretech</place>
+      <place>Smuggler's den</place>
+      <place>Public procession showing a prized artifact</place>
+    </places>
+  </tag>
+  <tag name="Primitive Aliens">
+    <description>The world is populated by a large number of sapient aliens that have yet to develop advanced technology. The human colonists may have a friendly or hostile relationship with the aliens, but a certain intrinsic tension is likely. Small human colonies might have been enslaved or otherwise subjugated.</description>
+    <enemies>
+      <enemy>Hostile alien chief</enemy>
+      <enemy>Human firebrand</enemy>
+      <enemy>Dangerous local predator</enemy>
+      <enemy>Alien religious zealot</enemy>
+    </enemies>
+    <friends>
+      <friend>Colonist leader</friend>
+      <friend>Peace-faction alien chief</friend>
+      <friend>Planetary frontiersman</friend>
+      <friend>Xenoresearcher</friend>
+    </friends>
+    <complications>
+      <complication>The alien numbers are huge and can overwhelm the humans whenever they so choose</complication>
+      <complication>One group is trying to use the other to kill their political opponents</complication>
+      <complication>The aliens are incomprehensibly strange</complication>
+      <complication>One side commits an atrocity</complication>
+    </complications>
+    <things>
+      <thing>Alien religious icon</thing>
+      <thing>Ancient alien-human treaty</thing>
+      <thing>Alien technology</thing>
+    </things>
+    <places>
+      <place>Alien village</place>
+      <place>Fortified human settlement</place>
+      <place>Massacre site</place>
+    </places>
+  </tag>
+  <tag name="Psionics Fear">
+    <description>The locals are terrified of psychics. Perhaps their history is studded with feral psychics who went on murderous rampages, or perhaps they simply nurse an unreasoning terror of those "mutant freaks". Psychics demonstrate their powers at risk of their lives.</description>
+    <enemies>
+      <enemy>Mental purity investigator</enemy>
+      <enemy>Suspicious zealot</enemy>
+      <enemy>Witch-finder</enemy>
+    </enemies>
+    <friends>
+      <friend>Hidden psychic</friend>
+      <friend>Offworlder psychic trapped here</friend>
+      <friend>Offworld educator</friend>
+    </friends>
+    <complications>
+      <complication>Psychic potential is much more common here</complication>
+      <complication>Some tech is mistaken as psitech</complication>
+      <complication>Natives believe certain rituals and customs can protect them from psychic powers</complication>
+    </complications>
+    <things>
+      <thing>Hidden psitech cache</thing>
+      <thing>Possessions of convicted psychics</thing>
+      <thing>Reward for turning in a psychic</thing>
+    </things>
+    <places>
+      <place>Inquisitorial chamber</place>
+      <place>Lynching site</place>
+      <place>Museum of psychic atrocities</place>
+    </places>
+  </tag>
+  <tag name="Psionics Worship">
+    <description>These natives view psionic powers as a visible gift of god or sign of superiority. If the world has a functional psychic training academy, psychics occupy almost all major positions of power and are considered the natural and proper rulers of the world. If the world lacks training facilities, it is likely a hodgepodge of demented cults, with each one dedicated to a marginally-coherent feral prophet and their psychopathic ravings.</description>
+    <enemies>
+      <enemy>Psychic inquisitor</enemy>
+      <enemy>Haughty mind-noble</enemy>
+      <enemy>Psychic slaver</enemy>
+      <enemy>Feral prophet</enemy>
+    </enemies>
+    <friends>
+      <friend>Offworlder psychic researcher</friend>
+      <friend>Native rebel</friend>
+      <friend>Offworld employer seeking psychics</friend>
+    </friends>
+    <complications>
+      <complication>The psychic training is imperfect and the psychics all show significant mental illness</complication>
+      <complication>The psychics have developed a unique discipline</complication>
+      <complication>The will of a psychic is law</complication>
+      <complication>Psychics in the party are forcibly kidnapped for "enlightening".</complication>
+    </complications>
+    <things>
+      <thing>Ancient psitech</thing>
+      <thing>Valuable psychic research records</thing>
+      <thing>Permission for psychic training</thing>
+    </things>
+    <places>
+      <place>Psitech-imbued council chamber</place>
+      <place>Temple to the mind</place>
+      <place>Sanitarium-prison for feral psychics</place>
+    </places>
+  </tag>
+  <tag name="Psionics Academy">
+    <description>This world is one of the few that have managed to redevelop the basics of psychic training. Without this education, a potential psychic is doomed to either madness or death unless they refrain from using their abilities. Psionic academies are rare enough that offworlders are often sent there to study by wealthy patrons. The secrets of psychic mentorship, the protocols and techniques that allow a psychic to successfully train another, are carefully guarded at these academies. Most are closely affiliated with the planetary government.</description>
+    <enemies>
+      <enemy>Corrupt psychic instructor</enemy>
+      <enemy>Renegade student</enemy>
+      <enemy>Mad psychic researcher</enemy>
+      <enemy>Resentful townie</enemy>
+    </enemies>
+    <friends>
+      <friend>Offworld researcher</friend>
+      <friend>Aspiring student</friend>
+      <friend>Wealthy tourist</friend>
+    </friends>
+    <complications>
+      <complication>The academy curriculum kills a significant percentage of students</complication>
+      <complication>The faculty use students as research subjects</complication>
+      <complication>The students are indoctrinated as sleeper agents</complication>
+      <complication>The local natives hate the academy</complication>
+      <complication>The academy is part of a religion.</complication>
+    </complications>
+    <things>
+      <thing>Secretly developed psitech</thing>
+      <thing>A runaway psychic mentor</thing>
+      <thing>Psychic research prize</thing>
+    </things>
+    <places>
+      <place>Training grounds</place>
+      <place>Experimental laboratory</place>
+      <place>School library</place>
+      <place>Campus hangout</place>
+    </places>
+  </tag>
+  <tag name="Quarantined World">
+    <description>The world is under a quarantine, and space travel to and from it is strictly forbidden. This may be enforced by massive ground batteries that burn any interlopers from the planet's sky, or it may be that a neighboring world runs a persistent blockade.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Defense installation commander</enemy>
+      <enemy>Suspicious patrol leader</enemy>
+      <enemy>Crazed asteroid hermit</enemy>
+    </enemies>
+    <friends>
+      <friend>Relative of a person trapped on the world</friend>
+      <friend>Humanitarian relief official</friend>
+      <friend>Treasure hunter</friend>
+    </friends>
+    <complications>
+      <complication>The natives want to remain isolated</complication>
+      <complication>The quarantine is enforced by an ancient alien installation</complication>
+      <complication>The world is rife with maltech abominations</complication>
+      <complication>The blockade is meant to starve everyone on the barren world.</complication>
+    </complications>
+    <things>
+      <thing>Defense grid key</thing>
+      <thing>Bribe for getting someone out</thing>
+      <thing>Abandoned alien tech</thing>
+    </things>
+    <places>
+      <place>Bridge of a blockading ship</place>
+      <place>Defense installation control room</place>
+      <place>Refugee camp</place>
+    </places>
+  </tag>
+  <tag name="Radioactive World">
+    <description>Whether due to a legacy of atomic warfare unhindered by nuke snuffers or a simple profusion of radioactive elements, this world glows in the dark. Even heavy vacc suits can filter only so much of the radiation, and most natives suffer a wide variety of cancers, mutations and other illnesses without the protection of advanced medical treatments.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Bitter mutant</enemy>
+      <enemy>Relic warlord</enemy>
+      <enemy>Desperate would-be escapee</enemy>
+    </enemies>
+    <friends>
+      <friend>Reckless prospector</friend>
+      <friend>Offworld scavenger</friend>
+      <friend>Biogenetic variety seeker</friend>
+    </friends>
+    <complications>
+      <complication>The radioactivity is steadily growing worse</complication>
+      <complication>The planet's medical resources break down</complication>
+      <complication>The radioactivity has inexplicable effects on living creatures</complication>
+      <complication>The radioactivity is the product of a malfunctioning pretech manufactory.</complication>
+    </complications>
+    <things>
+      <thing>Ancient atomic weaponry</thing>
+      <thing>Pretech anti-radioactivity drugs</thing>
+      <thing>Untainted water supply</thing>
+    </things>
+    <places>
+      <place>Mutant-infested ruins</place>
+      <place>Scorched glass plain</place>
+      <place>Wilderness of bizarre native life</place>
+      <place>Glowing barrens</place>
+    </places>
+  </tag>
+  <tag name="Regional Hegemon">
+    <description>This world has the technological sophistication, natural resources, and determined polity necessary to be a regional hegemon for the sector. Nearby worlds are likely either directly subservient to it or tack carefully to avoid its anger. It may even be the capital of a small stellar empire.</description>
+    <enemies>
+      <enemy>Ambitious general</enemy>
+      <enemy>Colonial official</enemy>
+      <enemy>Contemptuous noble</enemy>
+    </enemies>
+    <friends>
+      <friend>Diplomat</friend>
+      <friend>Offworld ambassador</friend>
+      <friend>Foreign spy</friend>
+    </friends>
+    <complications>
+      <complication>The hegemon's influence is all that's keeping a murderous war from breaking out on nearby worlds</complication>
+      <complication>The hegemon is decaying and losing its control</complication>
+      <complication>The government is riddled with spies</complication>
+      <complication>The hegemon is genuinely benign</complication>
+    </complications>
+    <things>
+      <thing>Diplomatic carte blanche</thing>
+      <thing>Deed to an offworld estate</thing>
+      <thing>Foreign aid grant</thing>
+    </things>
+    <places>
+      <place>Palace or seat of government</place>
+      <place>Salon teeming with spies</place>
+      <place>Protest rally</place>
+      <place>Military base</place>
+    </places>
+  </tag>
+  <tag name="Restrictive Laws">
+    <description>A myriad of laws, customs, and rules constrain the inhabitants of this world, and even acts that are completely permissible elsewhere are punished severely here. The locals may provide lists of these laws to offworlders, but few non-natives can hope to master all the important intricacies.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Law enforcement officer</enemy>
+      <enemy>Outraged native</enemy>
+      <enemy>Native lawyer specializing in peeling offworlders</enemy>
+      <enemy>Paid snitch</enemy>
+    </enemies>
+    <friends>
+      <friend>Frustrated offworlder</friend>
+      <friend>Repressed native</friend>
+      <friend>Reforming crusader</friend>
+    </friends>
+    <complications>
+      <complication>The laws change regularly in patterns only natives understand</complication>
+      <complication>The laws forbid some action vital to the party</complication>
+      <complication>The laws forbid the simple existence of some party members</complication>
+      <complication>The laws are secret to offworlders</complication>
+    </complications>
+    <things>
+      <thing>Complete legal codex</thing>
+      <thing>Writ of diplomatic immunity</thing>
+      <thing>Fine collection vault contents</thing>
+    </things>
+    <places>
+      <place>Courtroom</place>
+      <place>Mob scene of outraged locals</place>
+      <place>Legislative chamber</place>
+      <place>Police station</place>
+    </places>
+  </tag>
+  <tag name="Rigid Culture">
+    <description>The local culture is extremely rigid. Certain forms of behavior and belief are absolutely mandated, and any deviation from these principles is punished, or else society may be strongly stratified by birth with limited prospects for change. Anything which threatens the existing social order is feared and shunned.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Rigid reactionary</enemy>
+      <enemy>Wary ruler</enemy>
+      <enemy>Regime ideologue</enemy>
+      <enemy>Offended potentate</enemy>
+    </enemies>
+    <friends>
+      <friend>Revolutionary agitator</friend>
+      <friend>Ambitious peasant</friend>
+      <friend>Frustrated merchant</friend>
+    </friends>
+    <complications>
+      <complication>The cultural patterns are enforced by technological aids</complication>
+      <complication>The culture is run by a secret cabal of manipulators</complication>
+      <complication>The culture has explicit religious sanction</complication>
+      <complication>The culture evolved due to important necessities that have since been forgotten</complication>
+    </complications>
+    <things>
+      <thing>Precious traditional regalia</thing>
+      <thing>Peasant tribute</thing>
+      <thing>Opulent treasures of the ruling class</thing>
+    </things>
+    <places>
+      <place>Time-worn palace</place>
+      <place>Low-caste slums</place>
+      <place>Bandit den</place>
+      <place>Reformist temple</place>
+    </places>
+  </tag>
+  <tag name="Seagoing Cities">
+    <description>Either the world is entirely water or else the land is simply too dangerous for most humans. Human settlement on this world consists of a number of floating cities that follow the currents and the fish.</description>
+    <enemies>
+      <enemy>Pirate city lord</enemy>
+      <enemy>Mer-human raider chieftain</enemy>
+      <enemy>Hostile landsman noble</enemy>
+      <enemy>Enemy city saboteur</enemy>
+    </enemies>
+    <friends>
+      <friend>City navigator</friend>
+      <friend>Scout captain</friend>
+      <friend>Curious mer-human</friend>
+    </friends>
+    <complications>
+      <complication>The seas are not water</complication>
+      <complication>The fish schools have vanished and the city faces starvation</complication>
+      <complication>Terrible storms drive the city into the glacial regions</complication>
+      <complication>Suicide ships ram the city's hull</complication>
+    </complications>
+    <things>
+      <thing>Giant pearls with mysterious chemical properties</thing>
+      <thing>Buried treasure</thing>
+      <thing>Vital repair materials</thing>
+    </things>
+    <places>
+      <place>Bridge of the city</place>
+      <place>Storm-tossed sea</place>
+      <place>A bridge fashioned of many small boats.</place>
+    </places>
+  </tag>
+  <tag name="Sealed Menace">
+    <description>Something on this planet has the potential to create enormous havoc for the inhabitants if it is not kept safely contained by its keepers. Whether a massive seismic fault line suppressed by pretech terraforming technology, a disease that has to be quarantined within hours of discovery, or an ancient alien relic that requires regular upkeep in order to prevent planetary catastrophe, the menace is a constant shadow on the populace.</description>
+    <enemies>
+      <enemy>Hostile outsider bent on freeing the menace</enemy>
+      <enemy>Misguided fool who thinks he can use it</enemy>
+      <enemy>Reckless researcher who thinks he can fix it</enemy>
+    </enemies>
+    <friends>
+      <friend>Keeper of the menace</friend>
+      <friend>Student of its nature</friend>
+      <friend>Victim of the menace</friend>
+    </friends>
+    <complications>
+      <complication>The menace would bring great wealth along with destruction</complication>
+      <complication>The menace is intelligent</complication>
+      <complication>The natives don't all believe in the menace</complication>
+    </complications>
+    <things>
+      <thing>A key to unlock the menace</thing>
+      <thing>A precious byproduct of the menace</thing>
+      <thing>The secret of the menace's true nature</thing>
+    </things>
+    <places>
+      <place>Guarded fortress containing the menace</place>
+      <place>Monitoring station</place>
+      <place>Scene of a prior outbreak of the menace</place>
+    </places>
+  </tag>
+  <tag name="Secret Masters">
+    <description>The world is actually run by a hidden cabal, acting through their catspaws in the visible government. For one reason or another, this group finds it imperative that they not be identified by outsiders, and in some cases even the planet's own government may not realize that they're actually being manipulated by hidden masters.</description>
+    <enemies>
+      <enemy>An agent of the cabal</enemy>
+      <enemy>Government official who wants no questions asked</enemy>
+      <enemy>Willfully blinded local</enemy>
+    </enemies>
+    <friends>
+      <friend>Paranoid conspiracy theorist</friend>
+      <friend>Machiavellian gamesman within the cabal</friend>
+      <friend>Interstellar investigator</friend>
+    </friends>
+    <complications>
+      <complication>The secret masters have a benign reason for wanting secrecy</complication>
+      <complication>The cabal fights openly amongst itself</complication>
+      <complication>The cabal is recruiting new members</complication>
+    </complications>
+    <things>
+      <thing>A dossier of secrets on a government official</thing>
+      <thing>A briefcase of unmarked credit notes</thing>
+      <thing>The identity of a cabal member</thing>
+    </things>
+    <places>
+      <place>Smoke-filled room</place>
+      <place>Shadowy alleyway</place>
+      <place>Secret underground bunker</place>
+    </places>
+  </tag>
+  <tag name="Sectarians">
+    <description>The world is torn by violent disagreement between sectarians of a particular faith. Each views the other as a damnable heresy in need of extirpation. Local government may be able to keep open war from breaking out, but the poisonous hatred divides communities. The nature of the faith may be religious, or it may be based on some secular ideology.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Paranoid believer</enemy>
+      <enemy>Native convinced the party is working for the other side</enemy>
+      <enemy>Absolutist ruler</enemy>
+    </enemies>
+    <friends>
+      <friend>Reformist clergy</friend>
+      <friend>Local peacekeeping official</friend>
+      <friend>Offworld missionary</friend>
+      <friend>Exhausted ruler</friend>
+    </friends>
+    <complications>
+      <complication>The conflict has more than two sides</complication>
+      <complication>The sectarians hate each other for multiple reasons</complication>
+      <complication>The sectarians must cooperate or else life on this world is imperiled</complication>
+      <complication>The sectarians hate outsiders more than they hate each other</complication>
+      <complication>The differences in sects are incomprehensible to an outsider</complication>
+    </complications>
+    <things>
+      <thing>Ancient holy book</thing>
+      <thing>Incontrovertible proof</thing>
+      <thing>Offering to a local holy man</thing>
+    </things>
+    <places>
+      <place>Sectarian battlefield</place>
+      <place>Crusading temple</place>
+      <place>Philosopher's salon</place>
+      <place>Bitterly divided village</place>
+    </places>
+  </tag>
+  <tag name="Seismic Instability">
+    <description>The local land masses are remarkably unstable, and regular earthquakes rack the surface. Local construction is either advanced enough to sway and move with the vibrations or primitive enough that it is easily rebuilt. Severe volcanic activity may be part of the instability.</description>
+    <enemies>
+      <enemy>Earthquake cultist</enemy>
+      <enemy>Hermit seismologist</enemy>
+      <enemy>Burrowing native life form</enemy>
+      <enemy>Earthquake-inducing saboteur</enemy>
+    </enemies>
+    <friends>
+      <friend>Experimental construction firm owner</friend>
+      <friend>Adventurous volcanologist</friend>
+      <friend>Geothermal prospector</friend>
+    </friends>
+    <complications>
+      <complication>The earthquakes are caused by malfunctioning pretech terraformers</complication>
+      <complication>They're caused by alien technology</complication>
+      <complication>They're restrained by alien technology that is being plundered by offworlders</complication>
+      <complication>The earthquakes are used to generate enormous amounts of energy.</complication>
+    </complications>
+    <things>
+      <thing>Earthquake generator</thing>
+      <thing>Earthquake suppressor</thing>
+      <thing>Mineral formed at the core of the world</thing>
+      <thing>Earthquake-proof building schematics</thing>
+    </things>
+    <places>
+      <place>Volcanic caldera</place>
+      <place>Village during an earthquake</place>
+      <place>Mud slide</place>
+      <place>Earthquake opening superheated steam fissures</place>
+    </places>
+  </tag>
+  <tag name="Theocracy">
+    <description>The planet is ruled by the priesthood of the predominant religion or ideology. The rest of the locals may or may not be terribly pious, but the clergy have the necessary military strength, popular support or control of resources to maintain their rule. Alternative faiths or incompatible ideologies are likely to be both illegal and socially unacceptable.</description>
+    <enemies>
+      <enemy>Decadent priest-ruler</enemy>
+      <enemy>Zealous inquisitor</enemy>
+      <enemy>Relentless proselytizer</enemy>
+      <enemy>True Believer</enemy>
+    </enemies>
+    <friends>
+      <friend>Heretic</friend>
+      <friend>Offworld theologian</friend>
+      <friend>Atheistic merchant</friend>
+      <friend>Desperate commoner</friend>
+    </friends>
+    <complications>
+      <complication>The theocracy actually works well</complication>
+      <complication>The theocracy is decadent and hated by the common folk</complication>
+      <complication>The theocracy is divided into mutually hostile sects</complication>
+      <complication>The theocracy is led by aliens</complication>
+    </complications>
+    <things>
+      <thing>Precious holy text</thing>
+      <thing>Martyr's bones</thing>
+      <thing>Secret church records</thing>
+      <thing>Ancient church treasures</thing>
+    </things>
+    <places>
+      <place>Glorious temple</place>
+      <place>Austere monastery</place>
+      <place>Academy for ideological indoctrination</place>
+      <place>Decadent pleasure-cathedral</place>
+    </places>
+  </tag>
+  <tag name="Tomb World">
+    <description>Tomb worlds are planets that were once inhabited by humans before the Silence. The sudden collapse of the jump gate network and the inability to bring in the massive food supplies required by the planet resulted in starvation, warfare, and death. Most tomb worlds are naturally hostile to human habitation and could not raise sufficient crops to maintain life. The few hydroponic facilities were usually destroyed in the fighting, and all that is left now are ruins, bones, and silence.</description>
+    <enemies>
+      <enemy>Demented survivor tribe chieftain</enemy>
+      <enemy>Avaricious scavenger</enemy>
+      <enemy>Automated defense system</enemy>
+      <enemy>Native predator</enemy>
+    </enemies>
+    <friends>
+      <friend>Scavenger Fleet captain</friend>
+      <friend>Archaeologist</friend>
+      <friend>Salvaging historian</friend>
+    </friends>
+    <complications>
+      <complication>The ruins are full of booby-traps left by the final inhabitants</complication>
+      <complication>The world's atmosphere quickly degrades anything in an opened building</complication>
+      <complication>A handful of desperate natives survived the Silence</complication>
+      <complication>The structures are unstable and collapsing</complication>
+    </complications>
+    <things>
+      <thing>Lost pretech equipment</thing>
+      <thing>Psitech caches</thing>
+      <thing>Stores of unused munitions</thing>
+      <thing>Ancient historical documents</thing>
+    </things>
+    <places>
+      <place>Crumbling hive-city</place>
+      <place>City square carpeted in bones</place>
+      <place>Ruined hydroponic facility</place>
+      <place>Cannibal tribe's lair</place>
+      <place>Dead orbital jump gate</place>
+    </places>
+  </tag>
+  <tag name="Trade Hub">
+    <description>This world is a major crossroads for local interstellar trade. It is well-positioned at the nexus of several short-drill trade routes, and has facilities for easy transfer of valuable cargoes and the fueling and repairing of starships. The natives are accustomed to outsiders, and a polyglot mass of people from every nearby world can be found trading here.</description>
+    <enemies>
+      <enemy>Cheating merchant</enemy>
+      <enemy>Thieving dockworker</enemy>
+      <enemy>Commercial spy</enemy>
+      <enemy>Corrupt customs official</enemy>
+    </enemies>
+    <friends>
+      <friend>Rich tourist</friend>
+      <friend>Hardscrabble free trader</friend>
+      <friend>Merchant prince in need of catspaws</friend>
+      <friend>Friendly spaceport urchin</friend>
+    </friends>
+    <complications>
+      <complication>An outworlder faction schemes to seize the trade hub</complication>
+      <complication>Saboteurs seek to blow up a rival's warehouses</complication>
+      <complication>Enemies are blockading the trade routes</complication>
+      <complication>Pirates lace the hub with spies</complication>
+    </complications>
+    <things>
+      <thing>Voucher for a warehouse's contents</thing>
+      <thing>Insider trading information</thing>
+      <thing>Case of precious offworld pharmaceuticals</thing>
+      <thing>Box of legitimate tax stamps indicating customs dues have been paid.</thing>
+    </things>
+    <places>
+      <place>Raucous bazaar</place>
+      <place>Elegant restaurant</place>
+      <place>Spaceport teeming with activity</place>
+      <place>Foggy street lined with warehouses</place>
+    </places>
+  </tag>
+  <tag name="Tyranny">
+    <description>The local government is brutal and indifferent to the will of the people. Laws may or may not exist, but the only one that matters is the whim of the rulers on any given day. Their minions swagger through the streets while the common folk live in terror of their appetites. The only people who stay wealthy are friends and servants of the ruling class.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Debauched autocrat</enemy>
+      <enemy>Sneering bully-boy</enemy>
+      <enemy>Soulless government official</enemy>
+      <enemy>Occupying army officer</enemy>
+    </enemies>
+    <friends>
+      <friend>Conspiring rebel</friend>
+      <friend>Oppressed merchant</friend>
+      <friend>Desperate peasant</friend>
+      <friend>Inspiring religious leader</friend>
+    </friends>
+    <complications>
+      <complication>The tyrant rules with vastly superior technology</complication>
+      <complication>The tyrant is a figurehead for a cabal of powerful men and women</complication>
+      <complication>The people are resigned to their suffering</complication>
+      <complication>The tyrant is hostile to "meddlesome outworlders".</complication>
+    </complications>
+    <things>
+      <thing>Plundered wealth</thing>
+      <thing>Beautiful toys of the elite</thing>
+      <thing>Regalia of rulership</thing>
+    </things>
+    <places>
+      <place>Impoverished village</place>
+      <place>Protest rally massacre</place>
+      <place>Decadent palace</place>
+      <place>Religious hospital for the indigent</place>
+    </places>
+  </tag>
+  <tag name="Unbraked AI">
+    <description>Artificial intelligences are costly and difficult to create, requiring a careful sequence of "growth stages" in order to bring them to sentience before artificial limits on cognition speed and learning development are installed. These "brakes" prevent runaway cognition metastasis, wherein an AI begins to rapidly contemplate certain subjects in increasingly baroque fashion, until they become completely crazed by rational human standards. This world has one such "unbraked AI" on it, probably with a witting or unwitting corps of servants. Unbraked AIs are quite insane, but they learn and reason with a speed impossible for humans, and can demonstrate a truly distressing subtlety at times.</description>
+    <enemies>
+      <enemy>AI Cultist</enemy>
+      <enemy>Maltech researcher</enemy>
+      <enemy>Government official dependent on the AI</enemy>
+    </enemies>
+    <friends>
+      <friend>Perimeter agent</friend>
+      <friend>AI researcher</friend>
+      <friend>Braked AI</friend>
+    </friends>
+    <complications>
+      <complication>The AI's presence is unknown to the locals</complication>
+      <complication>The locals depend on the AI for some vital service</complication>
+      <complication>The AI appears to be harmless</complication>
+      <complication>The AI has fixated on the group's ship's computer</complication>
+      <complication>The AI wants transport offworld</complication>
+    </complications>
+    <things>
+      <thing>The room-sized AI core itself</thing>
+      <thing>Maltech research files</thing>
+      <thing>Perfectly tabulated blackmail on government officials</thing>
+      <thing>Pretech computer circuitry</thing>
+    </things>
+    <places>
+      <place>Municipal computing banks</place>
+      <place>Cult compound</place>
+      <place>Repair center</place>
+      <place>Ancient hardcopy library</place>
+    </places>
+  </tag>
+  <tag name="Warlords">
+    <description>The world is plagued by warlords. Numerous powerful men and women control private armies sufficiently strong to cow whatever local government may exist. On the lands they claim, their word is law. Most spend their time oppressing their own subjects and murderously pillaging those of their neighbors. Most like to wrap themselves in the mantle of ideology, religious fervor, or an ostensibly legitimate right to rule.</description>
+    <travel-zone>amber</travel-zone>
+    <enemies>
+      <enemy>Warlord</enemy>
+      <enemy>Avaricious lieutenant</enemy>
+      <enemy>Expensive assassin</enemy>
+      <enemy>Aspiring minion</enemy>
+    </enemies>
+    <friends>
+      <friend>Vengeful commoner</friend>
+      <friend>Government military officer</friend>
+      <friend>Humanitarian aid official</friend>
+      <friend>Village priest</friend>
+    </friends>
+    <complications>
+      <complication>The warlords are willing to cooperate to fight mutual threats</complication>
+      <complication>The warlords favor specific religions or races over others</complication>
+      <complication>The warlords are using substantially more sophisticated tech than others</complication>
+      <complication>Some of the warlords are better rulers than the government</complication>
+    </complications>
+    <things>
+      <thing>Weapons cache</thing>
+      <thing>Buried plunder</thing>
+      <thing>A warlord's personal battle harness</thing>
+      <thing>Captured merchant shipping</thing>
+    </things>
+    <places>
+      <place>Gory battlefield</place>
+      <place>Burnt-out village</place>
+      <place>Barbaric warlord palace</place>
+      <place>Squalid refugee camp</place>
+    </places>
+  </tag>
+  <tag name="Xenophiles">
+    <description>The natives of this world are fast friends with a particular alien race. The aliens may have saved the planet at some point in the past, or awed the locals with superior tech or impressive cultural qualities. The aliens might even be the ruling class on the planet.</description>
+    <enemies>
+      <enemy>Offworld xenophobe</enemy>
+      <enemy>Suspicious alien leader</enemy>
+      <enemy>Xenocultural imperialist</enemy>
+    </enemies>
+    <friends>
+      <friend>Benevolent alien</friend>
+      <friend>Native malcontent</friend>
+      <friend>Gone-native offworlder</friend>
+    </friends>
+    <complications>
+      <complication>The enthusiasm is due to alien psionics or tech</complication>
+      <complication>The enthusiasm is based on a lie</complication>
+      <complication>The aliens strongly dislike their "groupies"</complication>
+      <complication>The aliens feel obliged to rule humanity for its own good</complication>
+      <complication>Humans badly misunderstand the aliens</complication>
+    </complications>
+    <things>
+      <thing>Hybrid alien-human tech</thing>
+      <thing>Exotic alien crafts</thing>
+      <thing>Sophisticated xenolinguistic and xenocultural research data</thing>
+    </things>
+    <places>
+      <place>Alien district</place>
+      <place>Alien-influenced human home</place>
+      <place>Cultural festival celebrating alien artist</place>
+    </places>
+  </tag>
+  <tag name="Xenophobes">
+    <description>The natives are intensely averse to dealings with outworlders. Whether through cultural revulsion, fear of tech contamination, or a genuine immunodeficiency, the locals shun foreigners from offworld and refuse to have anything to do with them beyond the bare necessities of contact. Trade may or may not exist on this world, but if it does, it is almost certainly conducted by a caste of untouchables and outcasts.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Revulsed local ruler</enemy>
+      <enemy>Native convinced some wrong was done to him</enemy>
+      <enemy>Cynical demagogue</enemy>
+    </enemies>
+    <friends>
+      <friend>Curious native</friend>
+      <friend>Exiled former ruler</friend>
+      <friend>Local desperately seeking outworlder help</friend>
+    </friends>
+    <complications>
+      <complication>The natives are symptomless carriers of a contagious and dangerous disease</complication>
+      <complication>The natives are exceptionally vulnerable to offworld diseases</complication>
+      <complication>The natives require elaborate purification rituals after speaking to an offworlder or touching them</complication>
+      <complication>The local ruler has forbidden any mercantile dealings with outworlders</complication>
+    </complications>
+    <things>
+      <thing>Jealously-guarded precious relic</thing>
+      <thing>Local product under export ban</thing>
+      <thing>Esoteric local technology</thing>
+    </things>
+    <places>
+      <place>Sealed treaty port</place>
+      <place>Public ritual not open to outsiders</place>
+      <place>Outcaste slum home</place>
+    </places>
+  </tag>
+  <tag name="Zombies">
+    <description>This menace may not take the form of shambling corpses, but some disease, alien artifact, or crazed local practice produces men and women with habits similar to those of murderous cannibal undead. These outbreaks may be regular elements in local society, either provoked by some malevolent creators or the consequence of some local condition.</description>
+    <travel-zone>red</travel-zone>
+    <enemies>
+      <enemy>Soulless maltech biotechnology cult</enemy>
+      <enemy>Sinister governmental agent</enemy>
+      <enemy>Crazed zombie cultist</enemy>
+    </enemies>
+    <friends>
+      <friend>Survivor of an outbreak</friend>
+      <friend>Doctor searching for a cure</friend>
+      <friend>Rebel against the secret malefactors</friend>
+    </friends>
+    <complications>
+      <complication>The zombies retain human intelligence</complication>
+      <complication>The zombies can be cured</complication>
+      <complication>The process is voluntary among devotees</complication>
+      <complication>The condition is infectious</complication>
+    </complications>
+    <things>
+      <thing>Cure for the condition</thing>
+      <thing>Alien artifact that causes it</thing>
+      <thing>Details of the cult's conversion process</thing>
+    </things>
+    <places>
+      <place>House with boarded-up windows</place>
+      <place>Dead city</place>
+      <place>Fortified bunker that was overrun from within</place>
+    </places>
+  </tag>
+</tag-descriptors>
